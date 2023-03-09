@@ -1,0 +1,44 @@
+{
+  "News": [
+    {
+      "Type": "Welcome back!",
+      "Titel": "The visualization software for the real estate and interior sector",
+      "Text": "With Unlit Studio you can create a lifelike 3D living space in no time, complete with furniture and decoration. In other words: it is very easy to create photo-realistic interiors and exteriors with the customer at the table. In this environment you will always receive the latest updates in the field of functionalities and content.",
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/1643988038.png",
+      "Link": "https://unlit.studio"
+    }
+
+  ],
+
+  "Patchnotes": [
+    {
+      "Titel": "Changelog 1.3.0 - 'View the latest updates'",
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/NieuweVersie_02.jpg",
+      "Link": "https://www.unlit.studio/changelog/"
+    }
+
+  ],
+
+  "Featured": [
+    {
+      "Titel": "Get everything out of Unlit right away?",
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Werk_aan_de_Muur_demo.jpg",
+      "Text": "View Tutorials",
+      "Link": "https://youtube.com/playlist?list=PLRmJunNi2Q85OqdxyEEGG76OKs5PRmQgQ"
+    }
+
+  ],
+
+  "Featured2": [
+    {
+      "Titel": "Have you convinced your colleagues yet?",
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/RenderUnlit.jpg",
+      "Text": "Unlit Studio Demo",
+      "Link": "https://www.youtube.com/watch?v=xGMb6dPY_Y4"
+
+    }
+
+  ]
+
+}
+
