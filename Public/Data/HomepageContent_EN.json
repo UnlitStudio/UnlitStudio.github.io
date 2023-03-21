@@ -1,0 +1,54 @@
+{
+  "News": [
+    {
+      "Type": "Welcome Back!",
+      "Titel": "The visualization software for the real estate and interior sector",
+      "Text": "With Unlit Studio you can create a lifelike 3D living space in no time, complete with furniture and decoration.",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/main/Images/Render_Beusdoek.jpg",
+      "Link": "https://unlit.studio",
+      "Bulletpoint1": "• IJcoon",
+      "Bulletpoint2": "• Eyye",
+      "Bulletpoint3": "• Design On Stock",
+      "Bulletpoint4": "• Therdex",
+      "Bulletpoint5": "• Snapping function using a hotkey (V)",
+      "Bulletpoint6": "• Measurement functionality",
+      "Bulletpoint7": "• Maps import function",
+      "Bulletpoint8": "• Focus on object using a hotkey (F)",
+      "Bulletpoint9": "• Camera clipping",
+      "Bulletpoint10": "• Automatically generate skirting boards in drawing mode"
+    }
+
+  ],
+
+  "Patchnotes": [
+    {
+      "Titel": "Changelog 2023 - 1.0.0 - 'Check the latest updates'",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/main/Images/NieuweVersie_02.jpg",
+      "Link": "https://www.unlit.studio/changelog/"
+    }
+
+  ],
+
+  "Featured": [
+    {
+      "Titel": "Get everything out of Unlit",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/main/Images/1643988038.png",
+      "Text": "Check out the tutorials",
+      "Link": "https://youtube.com/playlist?list=PLRmJunNi2Q85OqdxyEEGG76OKs5PRmQgQ"
+    }
+
+  ],
+
+  "Featured2": [
+    {
+      "Titel": "In the spotlight",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/main/Images/Therdex.jpg",
+      "Text": "Therdex",
+      "Link": "https://unlit.studio"
+
+    }
+
+  ]
+
+}
+
