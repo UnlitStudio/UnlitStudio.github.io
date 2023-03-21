@@ -5,7 +5,7 @@
   "10004": "Verlichting (Exterieur)",
   "10005": "Natuur (Exterieur)",
   "10006": "Overige content",
-  "10007": "People",
+  "10007": "Mensen",
   "10008": "Bestrating",
   "10009": "Voertuigen",
   "10010": "Accessoires",
@@ -53,6 +53,7 @@
   "10130": "Arte - U-V",
   "10131": "Arte - W-X",
   "10132": "Arte - Y-Z",
+  "10133": "BN Walls",
   "10134": "Gelderland",
   "10135": "Hay",
   "10136": "HKLiving",
@@ -65,7 +66,8 @@
   "10143": "Zuivergroep",
   "10144": "LABEL van den berg",
   "10145": "Lattenwand",
-  "10146": "Tarkett",
+  "10146": "Therdex",
+  "10147": "Desso",
   "10148": "Dru",
   "10149": "HaardenExpert",
   "10150": "Interstar",
@@ -84,7 +86,8 @@
   "10163": "IJcoon",
   "10164": "Eyye",
   "10165": "Design On Stock",
-  "10166": "FPcollection",
-  "10168": "Therdex"
+  "10166": "Tarkett",
+  "10167": "FP Collection",
+  "10168": "TÉGL"
 }
 

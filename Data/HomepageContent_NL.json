@@ -4,7 +4,7 @@
       "Type": "Welkom terug!",
       "Titel": "Dé visualisatie software voor de vastgoed- en interieursector",
       "Text": "Met Unlit Studio creëer je in een handomdraai een levensechte 3D-woonruimte, compleet met meubels en decoratie.",
-      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Render_Beusdoek.jpg",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/main/Images/Render_Beusdoek.jpg",
       "Link": "https://unlit.studio",
       "Bulletpoint1": "• IJcoon",
       "Bulletpoint2": "• Eyye",
@@ -23,7 +23,7 @@
   "Patchnotes": [
     {
       "Titel": "Changelog 2023 - 1.0.0 - 'Bekijk de laatste updates'",
-      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/NieuweVersie_02.jpg",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/main/Images/NieuweVersie_02.jpg",
       "Link": "https://www.unlit.studio/changelog/"
     }
 
@@ -32,7 +32,7 @@
   "Featured": [
     {
       "Titel": "Direct alles uit Unlit halen?",
-      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/1643988038.png",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/main/Images/1643988038.png",
       "Text": "Tutorials bekijken",
       "Link": "https://youtube.com/playlist?list=PLRmJunNi2Q85OqdxyEEGG76OKs5PRmQgQ"
     }
@@ -42,7 +42,7 @@
   "Featured2": [
     {
       "Titel": "In the spotlight",
-      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Therdex.jpg",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/main/Images/Therdex.jpg",
       "Text": "Therdex",
       "Link": "https://unlit.studio"
 
