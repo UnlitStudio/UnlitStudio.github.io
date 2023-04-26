@@ -4,7 +4,7 @@
       "Type": "Welcome Back!",
       "Titel": "The visualization software for the real estate and interior sector",
       "Text": "With Unlit Studio you can create a lifelike 3D living space in no time, complete with furniture and decoration.",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Experimental/Images/Render_Vivafloor-05042023.jpg",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/develop/Experimental/Images/Render_Vivafloor-05042023.jpg",
       "Link": "https://unlit.studio",
       "Bulletpoint1": "• Jess Design",
       "Bulletpoint2": "• INTR.",
@@ -23,7 +23,7 @@
   "Patchnotes": [
     {
       "Titel": "Changelog 2023 - 1.0.0 - 'Check the latest updates'",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Experimental/Images/Render_Nieuweversie-29082022.jpg",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/develop/Experimental/Images/Render_Nieuweversie-29082022.jpg",
       "Link": "https://www.unlit.studio/changelog/"
     }
 
@@ -32,7 +32,7 @@
   "Featured": [
     {
       "Titel": "Get everything out of Unlit",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Experimental/Images/Render_Beusdoek-01032023.jpg",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/develop/Experimental/Images/Render_Beusdoek-01032023.jpg",
       "Text": "Check out the tutorials",
       "Link": "https://youtube.com/playlist?list=PLRmJunNi2Q85OqdxyEEGG76OKs5PRmQgQ"
     }
@@ -42,7 +42,7 @@
   "Featured2": [
     {
       "Titel": "In the spotlight",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Experimental/Images/Therdex.jpg",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/develop/Experimental/Images/Therdex.jpg",
       "Text": "Therdex",
       "Link": "https://unlit.studio"
 
