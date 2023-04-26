@@ -5,7 +5,7 @@
   "10004": "Verlichting (Exterieur)",
   "10005": "Natuur (Exterieur)",
   "10006": "Overige content",
-  "10007": "Mensen",
+  "10007": "People",
   "10008": "Bestrating",
   "10009": "Voertuigen",
   "10010": "Accessoires",
@@ -37,7 +37,7 @@
   "10114": "mFlor",
   "10115": "101Copenhagen",
   "10116": "AndTradition",
-  "10117": "BertPlantagie",
+  "10117": "Bert Plantagie",
   "10118": "Dutchbone",
   "10119": "Faber",
   "10120": "Arte - A-B",
@@ -53,7 +53,6 @@
   "10130": "Arte - U-V",
   "10131": "Arte - W-X",
   "10132": "Arte - Y-Z",
-  "10133": "BN Walls",
   "10134": "Gelderland",
   "10135": "Hay",
   "10136": "HKLiving",
@@ -61,7 +60,7 @@
   "10138": "Montis",
   "10139": "Muuto",
   "10140": "Pode",
-  "10141": "StudioHenk",
+  "10141": "Studio Henk",
   "10142": "Vitra",
   "10143": "Zuivergroep",
   "10144": "LABEL van den berg",
@@ -86,8 +85,10 @@
   "10163": "IJcoon",
   "10164": "Eyye",
   "10165": "Design On Stock",
-  "10166": "Tarkett",
-  "10167": "FP Collection",
-  "10168": "TÉGL"
+  "10166": "FPcollection",
+  "10168": "Therdex",
+  "10169": "Belakos",
+  "10170": "INTR.",
+  "10171": "Jess Design"
 }
 

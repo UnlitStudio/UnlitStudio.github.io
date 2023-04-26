@@ -3,7 +3,7 @@
     {
       "brand": "Bebouwing",
       "chunkid": 10003,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10003-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10003-Windows.pak",
       "zipname": "pakchunk10003-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.unlit.studio/",
@@ -18,7 +18,7 @@
     {
       "brand": "Natuur",
       "chunkid": 10005,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10005-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10005-Windows.pak",
       "zipname": "pakchunk10005-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.unlit.studio/",
@@ -33,7 +33,7 @@
     {
       "brand": "Voertuigen",
       "chunkid": 10009,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10009-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10009-Windows.pak",
       "zipname": "pakchunk10009-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.unlit.studio/",
