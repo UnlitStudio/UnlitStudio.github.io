@@ -4,12 +4,12 @@
       "Type": "Welkom terug!",
       "Titel": "Dé visualisatie software voor de vastgoed- en interieursector",
       "Text": "Met Unlit Studio creëer je in een handomdraai een levensechte 3D-woonruimte, compleet met meubels en decoratie.",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Render_Beusdoek.jpg",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/develop/Experimental/Images/Render_Vivafloor-05042023.jpg",
       "Link": "https://unlit.studio",
-      "Bulletpoint1": "• IJcoon",
-      "Bulletpoint2": "• Eyye",
-      "Bulletpoint3": "• Design On Stock",
-      "Bulletpoint4": "• Therdex",
+      "Bulletpoint1": "• Jess Design",
+      "Bulletpoint2": "• INTR.",
+      "Bulletpoint3": "• Belakos",
+      "Bulletpoint4": "• HKliving",
       "Bulletpoint5": "• Snapping functie d.m.v. hotkey (V)",
       "Bulletpoint6": "• Meetfunctionaliteit",
       "Bulletpoint7": "• Importfunctie Plattegronden",
@@ -23,7 +23,7 @@
   "Patchnotes": [
     {
       "Titel": "Changelog 2023 - 1.0.0 - 'Bekijk de laatste updates'",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/NieuweVersie_02.jpg",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/develop/Experimental/Images/Render_Nieuweversie-29082022.jpg",
       "Link": "https://www.unlit.studio/changelog/"
     }
 
@@ -32,7 +32,7 @@
   "Featured": [
     {
       "Titel": "Direct alles uit Unlit halen?",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/1643988038.png",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/develop/Experimental/Images/Render_Beusdoek-01032023.jpg",
       "Text": "Tutorials bekijken",
       "Link": "https://youtube.com/playlist?list=PLRmJunNi2Q85OqdxyEEGG76OKs5PRmQgQ"
     }
@@ -42,7 +42,7 @@
   "Featured2": [
     {
       "Titel": "In the spotlight",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Therdex.jpg",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/develop/Experimental/Images/Therdex.jpg",
       "Text": "Therdex",
       "Link": "https://unlit.studio"
 
