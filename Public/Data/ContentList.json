@@ -76,6 +76,21 @@
     },
 
     {
+      "brand": "BN Walls",
+      "chunkid": 10133,
+      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10133-Windows.pak",
+      "zipname": "pakchunk10133-Windows.pak",
+      "enabled": true,
+      "websitelink": "https://bnwalls.com/nl/athome",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/91.png",
+      "ModelCount": "",
+      "Description": " Trendy en hip. Inspirerende wandbekleding voor elke woonstijl. Creëer een unieke ruimte met behang dat past bij jouw smaak.",
+      "Size": "2.9 GB",
+      "Version": "1.0.0",
+      "VersionDate": "15-3-2023"
+    },
+
+    {
       "brand": "Dutchbone",
       "chunkid": 10118,
       "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10118-Windows.pak",
@@ -541,6 +556,21 @@
     },
 
     {
+      "brand": "Tarkett",
+      "chunkid": 10166,
+      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10166-Windows.pak",
+      "zipname": "pakchunk10166-Windows.pak",
+      "enabled": true,
+      "websitelink": "https://vloeren.wonen.tarkett.nl/nl_NL/",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/24.png",
+      "ModelCount": "0",
+      "Description": "  Commerciële en residentiële vloeren",
+      "Size": "90.1 MB",
+      "Version": "1.0.0",
+      "VersionDate": "26-10-2022"
+    },
+
+    {
       "brand": "Zuiver Group",
       "chunkid": 10143,
       "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10143-Windows.pak",
@@ -626,6 +656,21 @@
       "ModelCount": "2",
       "Description": " Design Kasten",
       "Size": "15.5 MB",
+      "Version": "1.0.0",
+      "VersionDate": "26-10-2022"
+    },
+
+    {
+      "brand": "De Ploeg",
+      "chunkid": 10110,
+      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10110-Windows.pak",
+      "zipname": "pakchunk10110-Windows.pak",
+      "enabled": true,
+      "websitelink": "https://deploeg.com/",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/52.png",
+      "ModelCount": "2",
+      "Description": "  Ambachtelijke, kwalitatief hoogwaardige gordijn- en meubelstoffen",
+      "Size": "6.3 MB",
       "Version": "1.0.0",
       "VersionDate": "26-10-2022"
     },
