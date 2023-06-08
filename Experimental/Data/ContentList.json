@@ -11,8 +11,8 @@
       "ModelCount": "341",
       "Description": "  Ontdek de veelzijdigheid en het hoogwaardige design van Leolux meubelen",
       "Size": "791.1 MB",
-      "Version": "1.0.0",
-      "VersionDate": "26-10-2022"
+      "Version": "2.0.0",
+      "VersionDate": "08-06-2023"
     },
 
     {
@@ -27,7 +27,7 @@
       "Description": " Een complete lifestyle collectie meubelen en accessoires ontworpen door internationale topdesigners die elkaar perfect aanvullen.",
       "Size": "132.9 MB",
       "Version": "1.0.0",
-      "VersionDate": "26-10-2022"
+      "VersionDate": "08-06-2023"
     },
 
     {
@@ -58,6 +58,21 @@
       "Size": "0",
       "Version": "1.0.0",
       "VersionDate": "17-5-2023"
+    },
+
+    {
+      "brand": "Farrow & Ball",
+      "chunkid": 10175,
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10175-Windows.pak",
+      "zipname": "pakchunk10175-Windows.pak",
+      "enabled": true,
+      "websitelink": "https://www.farrow-ball.com/",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Experimental/Images/Thumbnails/105.png",
+      "ModelCount": "0",
+      "Description": "  Farrow & Ball is een gerenommeerd Brits bedrijf dat gespecialiseerd is in hoogwaardige verf- en behangproducten, bekend om hun unieke kleuren en traditionele productiemethoden.",
+      "Size": "791.1 MB",
+      "Version": "1.0.0",
+      "VersionDate": "08-06-2023"
     },
 
     {
