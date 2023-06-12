@@ -4,25 +4,25 @@
       "Type": "Welkom terug!",
       "Titel": "Dé visualisatie software voor de vastgoed- en interieursector",
       "Text": "Met Unlit Studio creëer je in een handomdraai een levensechte 3D-woonruimte, compleet met meubels en decoratie.",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Render_Vivafloor-05042023.jpg",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Render_Alwin-Slaapkamer.jpg",
       "Link": "https://unlit.studio",
-      "Bulletpoint1": "• Jess Design",
-      "Bulletpoint2": "• INTR.",
-      "Bulletpoint3": "• Belakos",
-      "Bulletpoint4": "• HKliving",
-      "Bulletpoint5": "• Snapping functie d.m.v. hotkey (V)",
-      "Bulletpoint6": "• Meetfunctionaliteit",
-      "Bulletpoint7": "• Importfunctie Plattegronden",
-      "Bulletpoint8": "• Focus op object d.m.v. hotkey (F)",
-      "Bulletpoint9": "• Camera clipping",
-      "Bulletpoint10": "• Automatisch plinten generereren in tekenmodus"
+      "Bulletpoint1": "• Leolux | Pode",
+      "Bulletpoint2": "• Artifort | Bert Plantagie",
+      "Bulletpoint3": "• Cotap | Kobe",
+      "Bulletpoint4": "• Trendhout | Farrow&Ball",
+      "Bulletpoint5": "• Opslaan camera posities (Ctrl + 1/2/3/4)",
+      "Bulletpoint6": "• Configureerbare ramen & raambekleding",
+      "Bulletpoint7": "• Uitbreiding import mogelijkheden (.obj .fbx .3ds)",
+      "Bulletpoint8": "• Gaten snijden in muren (tekenmodus)",
+      "Bulletpoint9": "• Prefab ruimtes onbeperkt uitbouwen (tekenmodus)",
+      "Bulletpoint10": "• HDRI level met unieke belichting (professional)"
     }
 
   ],
 
   "Patchnotes": [
     {
-      "Titel": "Changelog 2023 - 1.0.0 - 'Bekijk de laatste updates'",
+      "Titel": "Changelog 2023 - 1.1.0 - 'Bekijk de laatste updates'",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Render_Nieuweversie-29082022.jpg",
       "Link": "https://www.unlit.studio/changelog/"
     }
@@ -32,7 +32,7 @@
   "Featured": [
     {
       "Titel": "Direct alles uit Unlit halen?",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Render_Beusdoek-01032023.jpg",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Homepage_Leolux.jpg",
       "Text": "Tutorials bekijken",
       "Link": "https://youtube.com/playlist?list=PLRmJunNi2Q85OqdxyEEGG76OKs5PRmQgQ"
     }
@@ -42,9 +42,9 @@
   "Featured2": [
     {
       "Titel": "In the spotlight",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Therdex.jpg",
-      "Text": "Therdex",
-      "Link": "https://unlit.studio"
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Spotlight-Kobe_Mimosa.jpg",
+      "Text": "Kobe",
+      "Link": "https://www.unlit.studio/unlit-portfolio/kobe/"
 
     }
 

@@ -4,18 +4,18 @@
       "Type": "Welcome Back!",
       "Titel": "The visualization software for the real estate and interior sector",
       "Text": "With Unlit Studio you can create a lifelike 3D living space in no time, complete with furniture and decoration.",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Render_Vivafloor-05042023.jpg",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Render_Alwin-Slaapkamer.jpg",
       "Link": "https://unlit.studio",
-      "Bulletpoint1": "• Jess Design",
-      "Bulletpoint2": "• INTR.",
-      "Bulletpoint3": "• Belakos",
-      "Bulletpoint4": "• HKliving",
-      "Bulletpoint5": "• Snapping function using a hotkey (V)",
-      "Bulletpoint6": "• Measurement functionality",
-      "Bulletpoint7": "• Maps import function",
-      "Bulletpoint8": "• Focus on object using a hotkey (F)",
-      "Bulletpoint9": "• Camera clipping",
-      "Bulletpoint10": "• Automatically generate skirting boards in drawing mode"
+      "Bulletpoint1": "• Leolux | Pode",
+      "Bulletpoint2": "• Artifort | Bert Plantagie",
+      "Bulletpoint3": "• Cotap | Kobe",
+      "Bulletpoint4": "• Trendhout | Farrow&Ball",
+      "Bulletpoint5": "• Save camera positions (Ctrl + 1/2/3/4)",
+      "Bulletpoint6": "• Configurable windows & window coverings",
+      "Bulletpoint7": "• Expanded import options (.obj .fbx .3ds)",
+      "Bulletpoint8": "• Cutting Holes in Walls (drawing Mode)",
+      "Bulletpoint9": "• Expansion of prefab spaces (drawing mode)",
+      "Bulletpoint10": "• HDRI level with unique lighting (professional)"
     }
 
   ],
@@ -32,7 +32,7 @@
   "Featured": [
     {
       "Titel": "Get everything out of Unlit",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Render_Beusdoek-01032023.jpg",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Homepage_Leolux.jpg",
       "Text": "Check out the tutorials",
       "Link": "https://youtube.com/playlist?list=PLRmJunNi2Q85OqdxyEEGG76OKs5PRmQgQ"
     }
@@ -42,9 +42,9 @@
   "Featured2": [
     {
       "Titel": "In the spotlight",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Therdex.jpg",
-      "Text": "Therdex",
-      "Link": "https://unlit.studio"
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Spotlight-Kobe_Mimosa.jpg",
+      "Text": "Kobe",
+      "Link": "https://www.unlit.studio/unlit-portfolio/kobe/"
 
     }
 

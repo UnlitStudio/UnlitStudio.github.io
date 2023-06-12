@@ -1,16 +1,106 @@
 {
   "Content": [
     {
+      "brand": "Leolux",
+      "chunkid": 10137,
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10137-Windows.pak",
+      "zipname": "pakchunk10137-Windows.pak",
+      "enabled": true,
+      "websitelink": "https://www.leolux.nl/",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/47.png",
+      "ModelCount": "558",
+      "Description": "  Ontdek de veelzijdigheid en het hoogwaardige design van Leolux meubelen",
+      "Size": "1.07 GB",
+      "Version": "2.0.0",
+      "VersionDate": "08-06-2023"
+    },
+
+    {
+      "brand": "Pode",
+      "chunkid": 10140,
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10140-Windows.pak",
+      "zipname": "pakchunk10140-Windows.pak",
+      "enabled": true,
+      "websitelink": "https://pode.eu/nl",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/22.png",
+      "ModelCount": "106",
+      "Description": " Een complete lifestyle collectie meubelen en accessoires ontworpen door internationale topdesigners die elkaar perfect aanvullen.",
+      "Size": "152 MB",
+      "Version": "1.0.0",
+      "VersionDate": "08-06-2023"
+    },
+
+    {
+      "brand": "Cotap",
+      "chunkid": 10172,
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10172-Windows.pak",
+      "zipname": "pakchunk10172-Windows.pak",
+      "enabled": true,
+      "websitelink": "https://www.cotap.nl/",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/103.png",
+      "ModelCount": "148",
+      "Description": "Cotap heeft een breed assortiment aan vloeren. Denk aan laminaat, pvc/vinyl stroken, kamerbreed tapijt, kamerbreed vinyl, parket, entreematten en meer.",
+      "Size": "620 MB",
+      "Version": "1.0.0",
+      "VersionDate": "17-5-2023"
+    },
+
+    {
+      "brand": "Kobe",
+      "chunkid": 10173,
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10173-Windows.pak",
+      "zipname": "pakchunk10173-Windows.pak",
+      "enabled": true,
+      "websitelink": "https://www.kobe.eu/",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/89.png",
+      "ModelCount": "111",
+      "Description": "Kobe stoffen zijn trendy en voldoen aan de internationale technische eisen. Comfort en luxe staan hierbij centraal.",
+      "Size": "685 MB",
+      "Version": "1.0.0",
+      "VersionDate": "17-5-2023"
+    },
+
+    {
+      "brand": "Farrow & Ball",
+      "chunkid": 10175,
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10175-Windows.pak",
+      "zipname": "pakchunk10175-Windows.pak",
+      "enabled": true,
+      "websitelink": "https://www.farrow-ball.com/",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/105.png",
+      "ModelCount": "265",
+      "Description": "  Farrow & Ball is een gerenommeerd Brits bedrijf dat gespecialiseerd is in hoogwaardige verf- en behangproducten, bekend om hun unieke kleuren en traditionele productiemethoden.",
+      "Size": "1.16 MB",
+      "Version": "1.0.0",
+      "VersionDate": "08-06-2023"
+    },
+
+    {
+      "brand": "Trendhout",
+      "chunkid": 10174,
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10174-Windows.pak",
+      "zipname": "pakchunk10174-Windows.pak",
+      "enabled": true,
+      "websitelink": "https://www.trendhout.nl/",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/104.png",
+      "ModelCount": "20",
+      "Description": "Exclusieve tuinproducten van Douglas hout vindt u bij Trendhout. Als overkappingen, kapschuren, veranda's en buitenkeukens van topkwaliteit.",
+      "Size": "50.4 MB",
+      "Version": "1.0.0",
+      "VersionDate": "17-5-2023"
+    },
+
+    {
       "brand": "Belakos",
       "chunkid": 10169,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10169-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10169-Windows.pak",
       "zipname": "pakchunk10169-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.belakos.nl/nl/",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/90.png",
       "ModelCount": "40",
       "Description": "Belakos is een gevestigd merk in de Nederlandse woningen en in de Europese vloerenindustrie. Voor woningbouw, retail en commerciële projecten.",
-      "Size": "0",
+      "Size": "205 MB",
       "Version": "1.0.0",
       "VersionDate": "25-4-2023"
     },
@@ -18,14 +108,14 @@
     {
       "brand": "Jess Design",
       "chunkid": 10171,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10171-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10171-Windows.pak",
       "zipname": "pakchunk10171-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.jessdesign.com/nl/",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/99.png",
       "ModelCount": "35",
       "Description": "Met strakke lijnen, comfortabele materialen en eigentijdse lijsten zijn de ontwerpen van Jess een aanwinst voor elk huis of tuin.",
-      "Size": "0",
+      "Size": "239 MB",
       "Version": "1.0.0",
       "VersionDate": "25-4-2023"
     },
@@ -33,7 +123,7 @@
     {
       "brand": "INTR",
       "chunkid": 10170,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10170-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10170-Windows.pak",
       "zipname": "pakchunk10170-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.intr.nl/",
@@ -48,14 +138,14 @@
     {
       "brand": "TÉGL",
       "chunkid": 10168,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10168-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10168-Windows.pak",
       "zipname": "pakchunk10168-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.tegl.nl/",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/98.png",
       "ModelCount": "16",
       "Description": "",
-      "Size": "0",
+      "Size": "165 MB",
       "Version": "1.0.0",
       "VersionDate": "30-3-2023"
     },
@@ -63,14 +153,14 @@
     {
       "brand": "Desso",
       "chunkid": 10147,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10147-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10147-Windows.pak",
       "zipname": "pakchunk10147-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.tarkett.nl/",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/25.png",
-      "ModelCount": "240",
+      "ModelCount": "262",
       "Description": "",
-      "Size": "208.8 MB",
+      "Size": "748 MB",
       "Version": "1.0.0",
       "VersionDate": "30-3-2023"
     },
@@ -78,12 +168,12 @@
     {
       "brand": "BN Walls",
       "chunkid": 10133,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10133-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10133-Windows.pak",
       "zipname": "pakchunk10133-Windows.pak",
       "enabled": true,
       "websitelink": "https://bnwalls.com/nl/athome",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/91.png",
-      "ModelCount": "0",
+      "ModelCount": "752",
       "Description": " Trendy en hip. Inspirerende wandbekleding voor elke woonstijl. Creëer een unieke ruimte met behang dat past bij jouw smaak.",
       "Size": "2.9 GB",
       "Version": "1.0.0",
@@ -93,14 +183,14 @@
     {
       "brand": "Dutchbone",
       "chunkid": 10118,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10118-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10118-Windows.pak",
       "zipname": "pakchunk10118-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.dutchbone.com/",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/64.png",
       "ModelCount": "62",
       "Description": " Een Nederlands interieurmerk dat zich focust op wereldwijd geïnspireerde producten.",
-      "Size": "11.9 MB",
+      "Size": "623 MB",
       "Version": "1.0.0",
       "VersionDate": "26-10-2022"
     },
@@ -108,14 +198,14 @@
     {
       "brand": "Excluton",
       "chunkid": 10159,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10159-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10159-Windows.pak",
       "zipname": "pakchunk10159-Windows.pak",
       "enabled": true,
       "websitelink": "https://excluton.nl/",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/97.png",
-      "ModelCount": "121",
+      "ModelCount": "125",
       "Description": " Excluton is producent van sierbestrating, betonnen bestratingsproducten en inrichting van Openbare Ruimte",
-      "Size": "145 MB",
+      "Size": "780 MB",
       "Version": "1.0.0",
       "VersionDate": "02-03-2023"
     },
@@ -123,14 +213,14 @@
     {
       "brand": "Therdex",
       "chunkid": 10146,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10146-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10146-Windows.pak",
       "zipname": "pakchunk10146-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.therdex.nl/en/",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/96.png",
       "ModelCount": "52",
       "Description": " De vloeren van Therdex onderscheiden zich niet alleen op esthetisch vlak, maar ook als het gaat om milieuvriendelijke eigenschappen",
-      "Size": "145 MB",
+      "Size": "274 MB",
       "Version": "1.0.0",
       "VersionDate": "02-03-2023"
     },
@@ -138,14 +228,14 @@
     {
       "brand": "Design On Stock",
       "chunkid": 10165,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10165-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10165-Windows.pak",
       "zipname": "pakchunk10165-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.designonstock.com/",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/94.png",
       "ModelCount": "62",
       "Description": " Design On Stock, een Nederlands merk dat onderstreept wat Dutch Design bijzonder maakt. Een merk van Dutch Quality Group",
-      "Size": "145 MB",
+      "Size": "432 MB",
       "Version": "1.0.0",
       "VersionDate": "02-03-2023"
     },
@@ -153,14 +243,14 @@
     {
       "brand": "EYYE",
       "chunkid": 10164,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10164-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10164-Windows.pak",
       "zipname": "pakchunk10164-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.eyye.nl/",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/93.png",
       "ModelCount": "44",
       "Description": " EYYE, een Nederlands merk dat onderstreept wat Dutch Design bijzonder maakt. Een merk van Dutch Quality Group",
-      "Size": "145 MB",
+      "Size": "253 MB",
       "Version": "1.0.0",
       "VersionDate": "02-03-2023"
     },
@@ -168,14 +258,14 @@
     {
       "brand": "IJcoon",
       "chunkid": 10163,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10163-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10163-Windows.pak",
       "zipname": "pakchunk10163-Windows.pak",
       "enabled": true,
       "websitelink": "https://ijcoon.nl/",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/92.png",
       "ModelCount": "47",
       "Description": " IJcoon maakt designklassiekers van de toekomst. De meubels en interieuraccessoires zijn mooi van eenvoud, tijdloos en iconisch",
-      "Size": "145 MB",
+      "Size": "248 MB",
       "Version": "1.0.0",
       "VersionDate": "02-03-2023"
     },
@@ -183,14 +273,14 @@
     {
       "brand": "FP Collection",
       "chunkid": 10167,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10167-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10167-Windows.pak",
       "zipname": "pakchunk10167-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.fpcollection.nl/",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/95.png",
       "ModelCount": "3",
       "Description": " FP Collection staat voor modern projectmeubilair. Meubels, prijzen en service voor een grote glimlach",
-      "Size": "145 MB",
+      "Size": "8.19 MB",
       "Version": "1.0.0",
       "VersionDate": "02-03-2023"
     },
@@ -198,7 +288,7 @@
     {
       "brand": "vtwonen",
       "chunkid": 10161,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10161-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10161-Windows.pak",
       "zipname": "pakchunk10161-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.vtwonen.nl/",
@@ -213,7 +303,7 @@
     {
       "brand": "WOOOD",
       "chunkid": 10160,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10160-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10160-Windows.pak",
       "zipname": "pakchunk10160-Windows.pak",
       "enabled": true,
       "websitelink": "https://woood.nl/nl/",
@@ -228,7 +318,7 @@
     {
       "brand": "BePureHome",
       "chunkid": 10162,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10162-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10162-Windows.pak",
       "zipname": "pakchunk10162-Windows.pak",
       "enabled": true,
       "websitelink": "https://bepurehome.com/nl/",
@@ -243,7 +333,7 @@
     {
       "brand": "BKS Meubelen",
       "chunkid": 10158,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10158-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10158-Windows.pak",
       "zipname": "pakchunk10158-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.bks-holland.com/",
@@ -258,7 +348,7 @@
     {
       "brand": "Vivafloors",
       "chunkid": 10157,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10157-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10157-Windows.pak",
       "zipname": "pakchunk10157-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.vivafloors.nl/",
@@ -273,14 +363,14 @@
     {
       "brand": "Artifort",
       "chunkid": 10155,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10155-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10155-Windows.pak",
       "zipname": "pakchunk10155-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.artifort.com/nl/",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/40.png",
-      "ModelCount": "382",
+      "ModelCount": "438",
       "Description": " De Artifort collectie wordt gekenmerkt door innovatief, kleurrijk en tijdloos design met haar herkenbare vormgeving.",
-      "Size": "2.09 GB",
+      "Size": "2.16 GB",
       "Version": "1.0.0",
       "VersionDate": "06-12-2022"
     },
@@ -288,7 +378,7 @@
     {
       "brand": "Eijffinger",
       "chunkid": 10156,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10156-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10156-Windows.pak",
       "zipname": "pakchunk10156-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.eijffinger.com/nl-NL",
@@ -303,12 +393,12 @@
     {
       "brand": "Behangexpresse",
       "chunkid": 10101,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10101-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10101-Windows.pak",
       "zipname": "pakchunk10101-Windows.pak",
       "enabled": true,
       "websitelink": "https://behangexpresse.com/",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/54.png",
-      "ModelCount": "645",
+      "ModelCount": "642",
       "Description": " Creëer een geheel nieuwe omgeving met de schitterende behangcollecties van Behangexpresse. Moderne patronen, dierenprints, hout- , steen- en natuurprints, maar ook unieke kinderpatronen en meer.",
       "Size": "3.93 GB",
       "Version": "1.0.0",
@@ -318,7 +408,7 @@
     {
       "brand": "Flexa",
       "chunkid": 10111,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10111-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10111-Windows.pak",
       "zipname": "pakchunk10111-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.flexa.nl/",
@@ -333,7 +423,7 @@
     {
       "brand": "Kvadrat",
       "chunkid": 10112,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10112-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10112-Windows.pak",
       "zipname": "pakchunk10112-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.kvadrat.dk/en",
@@ -348,7 +438,7 @@
     {
       "brand": "Werk Aan De Muur",
       "chunkid": 10113,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10113-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10113-Windows.pak",
       "zipname": "pakchunk10113-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.werkaandemuur.nl/nl",
@@ -363,7 +453,7 @@
     {
       "brand": "mFlor",
       "chunkid": 10114,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10114-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10114-Windows.pak",
       "zipname": "pakchunk10114-Windows.pak",
       "enabled": true,
       "websitelink": "https://mflor.com/nl/",
@@ -378,14 +468,14 @@
     {
       "brand": "&Tradition",
       "chunkid": 10116,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10116-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10116-Windows.pak",
       "zipname": "pakchunk10116-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.andtradition.com/",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/56.png",
       "ModelCount": "53",
       "Description": "",
-      "Size": "36.9",
+      "Size": "37.7 MB",
       "Version": "1.0.0",
       "VersionDate": "26-10-2022"
     },
@@ -393,7 +483,7 @@
     {
       "brand": "Bert Plantagie",
       "chunkid": 10117,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10117-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10117-Windows.pak",
       "zipname": "pakchunk10117-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.bertplantagie.com/",
@@ -408,7 +498,7 @@
     {
       "brand": "Faber",
       "chunkid": 10119,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10119-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10119-Windows.pak",
       "zipname": "pakchunk10119-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.faberfires.com/en-nl",
@@ -423,7 +513,7 @@
     {
       "brand": "Gelderland",
       "chunkid": 10134,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10134-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10134-Windows.pak",
       "zipname": "pakchunk10134-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.gelderlandgroep.com/",
@@ -438,7 +528,7 @@
     {
       "brand": "Hay",
       "chunkid": 10135,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10135-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10135-Windows.pak",
       "zipname": "pakchunk10135-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.hay.nl/en/",
@@ -453,7 +543,7 @@
     {
       "brand": "HKliving",
       "chunkid": 10136,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10136-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10136-Windows.pak",
       "zipname": "pakchunk10136-Windows.pak",
       "enabled": true,
       "websitelink": "https://hkliving.com/",
@@ -466,24 +556,9 @@
     },
 
     {
-      "brand": "Leolux",
-      "chunkid": 10137,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10137-Windows.pak",
-      "zipname": "pakchunk10137-Windows.pak",
-      "enabled": true,
-      "websitelink": "https://www.leolux.nl/",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/47.png",
-      "ModelCount": "341",
-      "Description": "  Ontdek de veelzijdigheid en het hoogwaardige design van Leolux meubelen",
-      "Size": "791.1 MB",
-      "Version": "1.0.0",
-      "VersionDate": "26-10-2022"
-    },
-
-    {
       "brand": "Montis",
       "chunkid": 10138,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10138-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10138-Windows.pak",
       "zipname": "pakchunk10138-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.montis.nl/",
@@ -498,7 +573,7 @@
     {
       "brand": "Muuto",
       "chunkid": 10139,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10139-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10139-Windows.pak",
       "zipname": "pakchunk10139-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.muuto.com/",
@@ -511,24 +586,9 @@
     },
 
     {
-      "brand": "Pode",
-      "chunkid": 10140,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10140-Windows.pak",
-      "zipname": "pakchunk10140-Windows.pak",
-      "enabled": true,
-      "websitelink": "https://pode.eu/nl",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/22.png",
-      "ModelCount": "87",
-      "Description": " Een complete lifestyle collectie meubelen en accessoires ontworpen door internationale topdesigners die elkaar perfect aanvullen.",
-      "Size": "132.9 MB",
-      "Version": "1.0.0",
-      "VersionDate": "26-10-2022"
-    },
-
-    {
       "brand": "Studio Henk",
       "chunkid": 10141,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10141-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10141-Windows.pak",
       "zipname": "pakchunk10141-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.studio-henk.nl/nl",
@@ -543,7 +603,7 @@
     {
       "brand": "Vitra",
       "chunkid": 10142,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10142-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10142-Windows.pak",
       "zipname": "pakchunk10142-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.vitra.com/en-us/home",
@@ -558,7 +618,7 @@
     {
       "brand": "Tarkett",
       "chunkid": 10166,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10166-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10166-Windows.pak",
       "zipname": "pakchunk10166-Windows.pak",
       "enabled": true,
       "websitelink": "https://vloeren.wonen.tarkett.nl/nl_NL/",
@@ -573,7 +633,7 @@
     {
       "brand": "Zuiver Group",
       "chunkid": 10143,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10143-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10143-Windows.pak",
       "zipname": "pakchunk10143-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.zuiver-group.com/nl-nl",
@@ -588,7 +648,7 @@
     {
       "brand": "Label VAN DEN BERG",
       "chunkid": 10144,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10144-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10144-Windows.pak",
       "zipname": "pakchunk10144-Windows.pak",
       "enabled": true,
       "websitelink": "https://label.nl/",
@@ -603,7 +663,7 @@
     {
       "brand": "Lattenwand",
       "chunkid": 10145,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10145-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10145-Windows.pak",
       "zipname": "pakchunk10145-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.lattenwand.nl/webshop/",
@@ -618,7 +678,7 @@
     {
       "brand": "Dru",
       "chunkid": 10148,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10148-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10148-Windows.pak",
       "zipname": "pakchunk10148-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.drufire.com/nl-nl/",
@@ -633,7 +693,7 @@
     {
       "brand": "HaardenExpert",
       "chunkid": 10149,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10149-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10149-Windows.pak",
       "zipname": "pakchunk10149-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.haardenexpert.nl/",
@@ -648,7 +708,7 @@
     {
       "brand": "Interstar",
       "chunkid": 10150,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10150-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10150-Windows.pak",
       "zipname": "pakchunk10150-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.interstar-meubelen.nl/",
@@ -663,7 +723,7 @@
     {
       "brand": "De Ploeg",
       "chunkid": 10110,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10110-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10110-Windows.pak",
       "zipname": "pakchunk10110-Windows.pak",
       "enabled": true,
       "websitelink": "https://deploeg.com/",
@@ -678,7 +738,7 @@
     {
       "brand": "QuickStep",
       "chunkid": 10151,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10151-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10151-Windows.pak",
       "zipname": "pakchunk10151-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.quick-step.nl/nl-nl",
@@ -693,7 +753,7 @@
     {
       "brand": "Spectrum 3D",
       "chunkid": 10152,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10152-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10152-Windows.pak",
       "zipname": "pakchunk10152-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.spectrumdesign.nl/",
@@ -708,7 +768,7 @@
     {
       "brand": "Lucide",
       "chunkid": 10153,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10153-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10153-Windows.pak",
       "zipname": "pakchunk10153-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.lucide.com/nl/",
@@ -723,7 +783,7 @@
     {
       "brand": "Atelier Artiforte",
       "chunkid": 10154,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10154-Windows.pak",
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10154-Windows.pak",
       "zipname": "pakchunk10154-Windows.pak",
       "enabled": true,
       "websitelink": "https://atelierartiforte.com/",
