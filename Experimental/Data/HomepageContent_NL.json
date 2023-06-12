@@ -4,18 +4,18 @@
       "Type": "Welkom terug!",
       "Titel": "Dé visualisatie software voor de vastgoed- en interieursector",
       "Text": "Met Unlit Studio creëer je in een handomdraai een levensechte 3D-woonruimte, compleet met meubels en decoratie.",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Experimental/Images/Homepage_Leolux.jpg",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Experimental/ImagesRender_Alwin-Slaapkamer.jpg",
       "Link": "https://unlit.studio",
-      "Bulletpoint1": "• Leolux",
-      "Bulletpoint2": "• Trendhout",
-      "Bulletpoint3": "• Kobe",
-      "Bulletpoint4": "• Cotap",
-      "Bulletpoint5": "• Snapping functie d.m.v. hotkey (V)",
-      "Bulletpoint6": "• Meetfunctionaliteit",
-      "Bulletpoint7": "• Importfunctie Plattegronden",
-      "Bulletpoint8": "• Focus op object d.m.v. hotkey (F)",
-      "Bulletpoint9": "• Camera clipping",
-      "Bulletpoint10": "• Automatisch plinten generereren in tekenmodus"
+      "Bulletpoint1": "• Leolux | Pode",
+      "Bulletpoint2": "• Artifort | Bert Plantagie",
+      "Bulletpoint3": "• Cotap | Kobe",
+      "Bulletpoint4": "• Trendhout | Farrown&Ball",
+      "Bulletpoint5": "• Opslaan camera posities (Ctrl + 1/2/3/4)",
+      "Bulletpoint6": "• Configureerbare ramen, raambekleding & dakpannen",
+      "Bulletpoint7": "• Uitbreiding import mogelijkheden (.obj .fbx .3ds)",
+      "Bulletpoint8": "• Gaten snijden in muren (Tekenmodus)",
+      "Bulletpoint9": "• Prefab ruimtes onbeperkt uitbouwen (Tekenmodus)",
+      "Bulletpoint10": "• HDRI level met unieke belichting (Professional licentie)"
     }
 
   ],
@@ -32,7 +32,7 @@
   "Featured": [
     {
       "Titel": "Direct alles uit Unlit halen?",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Experimental/Images/Render_Beusdoek-01032023.jpg",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Experimental/Images/Homepage_Leolux.jpg",
       "Text": "Tutorials bekijken",
       "Link": "https://youtube.com/playlist?list=PLRmJunNi2Q85OqdxyEEGG76OKs5PRmQgQ"
     }
