@@ -1,6 +1,66 @@
 {
   "Content": [
     {
+      "brand": "Montinique",
+      "chunkid": 10179,
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10179-Windows.pak",
+      "zipname": "pakchunk10179-Windows.pak",
+      "enabled": true,
+      "websitelink": "https://www.montinique.nl/",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Experimental/Images/Thumbnails/109.png",
+      "ModelCount": "51",
+      "Description": "  A-merk pvc-vloeren van Montinique",
+      "Size": "257.6 MB",
+      "Version": "1.0.0",
+      "VersionDate": "20-06-2023"
+    },
+
+    {
+      "brand": "Hebeta",
+      "chunkid": 10178,
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10178-Windows.pak",
+      "zipname": "pakchunk10178-Windows.pak",
+      "enabled": true,
+      "websitelink": "https://www.hebeta.nl/",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Experimental/Images/Thumbnails/106.png",
+      "ModelCount": "51",
+      "Description": "  Hebeta is een ster in houtlook pvc-vloeren en ontwikkelde een unieke productielijn met 'register embossing' in de vloeren",
+      "Size": "257.6 MB",
+      "Version": "1.0.0",
+      "VersionDate": "20-06-2023"
+    },
+
+    {
+      "brand": "Sigma",
+      "chunkid": 10177,
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10177-Windows.pak",
+      "zipname": "pakchunk10177-Windows.pak",
+      "enabled": true,
+      "websitelink": "https://www.sigma.nl/",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Experimental/Images/Thumbnails/110.png",
+      "ModelCount": "4078",
+      "Description": "  Alle kleuren verf, met de garantie van Sigma",
+      "Size": "17.5 MB",
+      "Version": "1.0.0",
+      "VersionDate": "19-06-2023"
+    },
+
+    {
+      "brand": "Histor",
+      "chunkid": 10176,
+      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10176-Windows.pak",
+      "zipname": "pakchunk10176-Windows.pak",
+      "enabled": true,
+      "websitelink": "https://www.histor.nl/",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Experimental/Images/Thumbnails/107.png",
+      "ModelCount": "3423",
+      "Description": "  Verf in de mooiste kleuren",
+      "Size": "14.8 MB",
+      "Version": "1.0.0",
+      "VersionDate": "19-06-2023"
+    },
+
+    {
       "brand": "Leolux",
       "chunkid": 10137,
       "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10137-Windows.pak",
@@ -40,7 +100,7 @@
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Experimental/Images/Thumbnails/103.png",
       "ModelCount": "40",
       "Description": "Cotap heeft een breed assortiment aan vloeren. Denk aan laminaat, pvc/vinyl stroken, kamerbreed tapijt, kamerbreed vinyl, parket, entreematten en meer.",
-      "Size": "0",
+      "Size": "620.8",
       "Version": "1.0.0",
       "VersionDate": "17-5-2023"
     },
@@ -55,7 +115,7 @@
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Experimental/Images/Thumbnails/89.png",
       "ModelCount": "40",
       "Description": "Kobe stoffen zijn trendy en voldoen aan de internationale technische eisen. Comfort en luxe staan hierbij centraal.",
-      "Size": "0",
+      "Size": "685.9",
       "Version": "1.0.0",
       "VersionDate": "17-5-2023"
     },
@@ -594,7 +654,7 @@
       "websitelink": "https://www.studio-henk.nl/nl",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Experimental/Images/Thumbnails/51.png",
       "ModelCount": "74",
-      "Description": "",
+      "Description": " Studio HENK is een designstudio uit Amsterdam",
       "Size": "85.5 MB",
       "Version": "1.0.0",
       "VersionDate": "26-10-2022"
@@ -608,9 +668,9 @@
       "enabled": true,
       "websitelink": "https://www.vitra.com/en-us/home",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Experimental/Images/Thumbnails/50.png",
-      "ModelCount": "9",
-      "Description": "",
-      "Size": "5.5 MB",
+      "ModelCount": "109",
+      "Description": " Vitra is een Zwitsers bedrijf dat zich toelegt op het verbeteren van de kwaliteit van woningen, kantoren en openbare ruimtes door de kracht van design.",
+      "Size": "515.7 MB",
       "Version": "1.0.0",
       "VersionDate": "26-10-2022"
     },
