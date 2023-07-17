@@ -3,14 +3,14 @@
     {
       "brand": "Bebouwing",
       "chunkid": 10003,
-      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10003-Windows.pak",
+      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10003-Windows.pak",
       "zipname": "pakchunk10003-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.unlit.studio/",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/82.png",
-      "ModelCount": "7",
+      "ModelCount": "3",
       "Description": " Vul je exterieur met de bebouwing van Unlit.",
-      "Size": "13.5 MB",
+      "Size": "0 MB",
       "Version": "1.0.0",
       "VersionDate": "4-11-2022"
     },
@@ -18,14 +18,14 @@
     {
       "brand": "Natuur",
       "chunkid": 10005,
-      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10005-Windows.pak",
+      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10005-Windows.pak",
       "zipname": "pakchunk10005-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.unlit.studio/",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/6.png",
-      "ModelCount": "152",
+      "ModelCount": "16",
       "Description": " Vul je exterieur met de natuur van Unlit.",
-      "Size": "1.67 GB",
+      "Size": "0 MB",
       "Version": "1.0.0",
       "VersionDate": "4-11-2022"
     },
@@ -33,7 +33,7 @@
     {
       "brand": "Voertuigen",
       "chunkid": 10009,
-      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10009-Windows.pak",
+      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10009-Windows.pak",
       "zipname": "pakchunk10009-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.unlit.studio/",
@@ -48,14 +48,14 @@
     {
       "brand": "Meubilair",
       "chunkid": 10024,
-      "downloadlink": "https://unlitstudioexperimental.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10024-Windows.pak",
+      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10024-Windows.pak",
       "zipname": "pakchunk10024-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.unlit.studio/",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/102.png",
-      "ModelCount": "57",
+      "ModelCount": "6",
       "Description": " Vul je tuin aan met onze standaard tuinmeubilair.",
-      "Size": "349 MB",
+      "Size": "0 MB",
       "Version": "1.0.0",
       "VersionDate": "24-05-2023"
     }
