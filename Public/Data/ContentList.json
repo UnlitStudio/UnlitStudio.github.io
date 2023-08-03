@@ -708,7 +708,7 @@
     {
       "brand": "Label VAN DEN BERG",
       "chunkid": 10144,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10144-Windows.pak",
+      "downloadlink": "https://unlitstudio.ams3.cdn.digitaloceanspaces.com/content/Paks/pakchunk10144-Windows.pak",
       "zipname": "pakchunk10144-Windows.pak",
       "enabled": true,
       "websitelink": "https://label.nl/",
