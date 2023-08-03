@@ -3,7 +3,7 @@
     {
       "brand": "Decolegno - Beton",
       "chunkid": 10102,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10102-Windows.pak",
+      "downloadlink": "https://unlitstudio.ams3.cdn.digitaloceanspaces.com/content/Paks/pakchunk10102-Windows.pak",
       "zipname": "pakchunk10102-Windows.pak",
       "enabled": true,
       "websitelink": "https://decolegno.nl/",
@@ -18,7 +18,7 @@
     {
       "brand": "Decolegno - Stof",
       "chunkid": 10103,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10103-Windows.pak",
+      "downloadlink": "https://unlitstudio.ams3.cdn.digitaloceanspaces.com/content/Paks/pakchunk10103-Windows.pak",
       "zipname": "pakchunk10103-Windows.pak",
       "enabled": true,
       "websitelink": "https://decolegno.nl/",
@@ -33,7 +33,7 @@
     {
       "brand": "Decolegno - Leer",
       "chunkid": 10104,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10104-Windows.pak",
+      "downloadlink": "https://unlitstudio.ams3.cdn.digitaloceanspaces.com/content/Paks/pakchunk10104-Windows.pak",
       "zipname": "pakchunk10104-Windows.pak",
       "enabled": true,
       "websitelink": "https://decolegno.nl/",
@@ -48,7 +48,7 @@
     {
       "brand": "Decolegno - Metallic",
       "chunkid": 10105,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10105-Windows.pak",
+      "downloadlink": "https://unlitstudio.ams3.cdn.digitaloceanspaces.com/content/Paks/pakchunk10105-Windows.pak",
       "zipname": "pakchunk10105-Windows.pak",
       "enabled": true,
       "websitelink": "https://decolegno.nl/",
@@ -63,7 +63,7 @@
     {
       "brand": "Decolegno - Universeel",
       "chunkid": 10106,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10106-Windows.pak",
+      "downloadlink": "https://unlitstudio.ams3.cdn.digitaloceanspaces.com/content/Paks/pakchunk10106-Windows.pak",
       "zipname": "pakchunk10106-Windows.pak",
       "enabled": true,
       "websitelink": "https://decolegno.nl/",
@@ -78,7 +78,7 @@
     {
       "brand": "Decolegno - Natuursteen",
       "chunkid": 10107,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10107-Windows.pak",
+      "downloadlink": "https://unlitstudio.ams3.cdn.digitaloceanspaces.com/content/Paks/pakchunk10107-Windows.pak",
       "zipname": "pakchunk10107-Windows.pak",
       "enabled": true,
       "websitelink": "https://decolegno.nl/",
@@ -93,7 +93,7 @@
     {
       "brand": "Decolegno - Grafisch",
       "chunkid": 10108,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10108-Windows.pak",
+      "downloadlink": "https://unlitstudio.ams3.cdn.digitaloceanspaces.com/content/Paks/pakchunk10108-Windows.pak",
       "zipname": "pakchunk10108-Windows.pak",
       "enabled": true,
       "websitelink": "https://decolegno.nl/",
@@ -108,7 +108,7 @@
     {
       "brand": "Decolegno - Hout",
       "chunkid": 10109,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10109-Windows.pak",
+      "downloadlink": "https://unlitstudio.ams3.cdn.digitaloceanspaces.com/content/Paks/pakchunk10109-Windows.pak",
       "zipname": "pakchunk10109-Windows.pak",
       "enabled": true,
       "websitelink": "https://decolegno.nl/",

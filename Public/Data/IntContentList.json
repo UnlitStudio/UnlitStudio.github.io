@@ -3,7 +3,7 @@
     {
       "brand": "Accessoires",
       "chunkid": 10010,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10010-Windows.pak",
+      "downloadlink": "https://unlitstudio.ams3.cdn.digitaloceanspaces.com/content/Paks/pakchunk10010-Windows.pak",
       "zipname": "pakchunk10010-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.unlit.studio/",
@@ -18,7 +18,7 @@
     {
       "brand": "Badkamer",
       "chunkid": 10011,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10011-Windows.pak",
+      "downloadlink": "https://unlitstudio.ams3.cdn.digitaloceanspaces.com/content/Paks/pakchunk10011-Windows.pak",
       "zipname": "pakchunk10011-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.unlit.studio/",
@@ -33,7 +33,7 @@
     {
       "brand": "Bedden",
       "chunkid": 10012,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10012-Windows.pak",
+      "downloadlink": "https://unlitstudio.ams3.cdn.digitaloceanspaces.com/content/Paks/pakchunk10012-Windows.pak",
       "zipname": "pakchunk10012-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.unlit.studio/",
@@ -48,7 +48,7 @@
     {
       "brand": "Electronica",
       "chunkid": 10015,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10015-Windows.pak",
+      "downloadlink": "https://unlitstudio.ams3.cdn.digitaloceanspaces.com/content/Paks/pakchunk10015-Windows.pak",
       "zipname": "pakchunk10015-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.unlit.studio/",
@@ -63,7 +63,7 @@
     {
       "brand": "Verwarming",
       "chunkid": 10016,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10016-Windows.pak",
+      "downloadlink": "https://unlitstudio.ams3.cdn.digitaloceanspaces.com/content/Paks/pakchunk10016-Windows.pak",
       "zipname": "pakchunk10016-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.unlit.studio/",
@@ -78,7 +78,7 @@
     {
       "brand": "Keuken",
       "chunkid": 10017,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10017-Windows.pak",
+      "downloadlink": "https://unlitstudio.ams3.cdn.digitaloceanspaces.com/content/Paks/pakchunk10017-Windows.pak",
       "zipname": "pakchunk10017-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.unlit.studio/",
@@ -93,7 +93,7 @@
     {
       "brand": "Natuur",
       "chunkid": 10018,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10018-Windows.pak",
+      "downloadlink": "https://unlitstudio.ams3.cdn.digitaloceanspaces.com/content/Paks/pakchunk10018-Windows.pak",
       "zipname": "pakchunk10018-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.unlit.studio/",
@@ -108,7 +108,7 @@
     {
       "brand": "Vloerkleden",
       "chunkid": 10019,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10019-Windows.pak",
+      "downloadlink": "https://unlitstudio.ams3.cdn.digitaloceanspaces.com/content/Paks/pakchunk10019-Windows.pak",
       "zipname": "pakchunk10019-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.unlit.studio/",
@@ -123,7 +123,7 @@
     {
       "brand": "Raamdecoraties",
       "chunkid": 10021,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10021-Windows.pak",
+      "downloadlink": "https://unlitstudio.ams3.cdn.digitaloceanspaces.com/content/Paks/pakchunk10021-Windows.pak",
       "zipname": "pakchunk10021-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.unlit.studio/",
@@ -138,7 +138,7 @@
     {
       "brand": "Verlichting",
       "chunkid": 10022,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10022-Windows.pak",
+      "downloadlink": "https://unlitstudio.ams3.cdn.digitaloceanspaces.com/content/Paks/pakchunk10022-Windows.pak",
       "zipname": "pakchunk10022-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.unlit.studio/",
@@ -153,7 +153,7 @@
     {
       "brand": "Fitness",
       "chunkid": 10023,
-      "downloadlink": "https://unlitstudio.s3.eu-west-1.amazonaws.com/content/Paks/pakchunk10023-Windows.pak",
+      "downloadlink": "https://unlitstudio.ams3.cdn.digitaloceanspaces.com/content/Paks/pakchunk10023-Windows.pak",
       "zipname": "pakchunk10023-Windows.pak",
       "enabled": true,
       "websitelink": "https://www.unlit.studio/",
