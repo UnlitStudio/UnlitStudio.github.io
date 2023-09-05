@@ -4,25 +4,25 @@
       "Type": "Welkom terug!",
       "Titel": "Dé visualisatie software voor de vastgoed- en interieursector",
       "Text": "Met Unlit Studio creëer je in een handomdraai een levensechte 3D-woonruimte, compleet met meubels en decoratie.",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Render_Alwin-Slaapkamer.jpg",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Homepage_Keuken.jpg",
       "Link": "https://unlit.studio",
-      "Bulletpoint1": "• Sigma | Histor",
-      "Bulletpoint2": "• Hebeta | Montinique",
-      "Bulletpoint3": "• Arte | Leolux",
-      "Bulletpoint4": "• Label van den Berg",
-      "Bulletpoint5": "• Opslaan camera posities (Ctrl + 1/2/3/4)",
-      "Bulletpoint6": "• Configureerbare ramen & raambekleding",
-      "Bulletpoint7": "• Uitbreiding import mogelijkheden (.obj .fbx .3ds)",
-      "Bulletpoint8": "• Gaten snijden in muren (Tekenmodus)",
-      "Bulletpoint9": "• Prefab ruimtes onbeperkt uitbouwen (Tekenmodus)",
-      "Bulletpoint10": "• HDRI level met unieke belichting (Professional)"
+      "Bulletpoint1": "",
+      "Bulletpoint2": "",
+      "Bulletpoint3": "",
+      "Bulletpoint4": "",
+      "Bulletpoint5": "• Ctrl + Z en Ctrl + Y functionaliteit",
+      "Bulletpoint6": "• Live koppeling o.a. Sketchup (in ontwikkeling)",
+      "Bulletpoint7": "• Automatisch plaatsen/schalen raamdecoratie",
+      "Bulletpoint8": "• Configureerbare haarden",
+      "Bulletpoint9": "",
+      "Bulletpoint10": ""
     }
 
   ],
 
   "Patchnotes": [
     {
-      "Titel": "Changelog 2023 - 1.1.0 - 'Bekijk de laatste updates'",
+      "Titel": "Changelog 2023 - 1.2.0 - 'Bekijk de laatste updates'",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Render_Nieuweversie-29082022.jpg",
       "Link": "https://www.unlit.studio/changelog/"
     }
