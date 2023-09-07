@@ -256,21 +256,6 @@
     },
 
     {
-      "brand": "Excluton",
-      "chunkid": 10159,
-      "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10159-Windows.pak",
-      "zipname": "pakchunk10159-Windows.pak",
-      "enabled": true,
-      "websitelink": "https://excluton.nl/",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/97.png",
-      "ModelCount": "121",
-      "Description": " Excluton is producent van sierbestrating, betonnen bestratingsproducten en inrichting van Openbare Ruimte",
-      "Size": "145 MB",
-      "Version": "1.0.0",
-      "VersionDate": "02-03-2023"
-    },
-
-    {
       "brand": "Therdex",
       "chunkid": 10146,
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10146-Windows.pak",
