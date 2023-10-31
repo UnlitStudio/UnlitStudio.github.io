@@ -4,12 +4,12 @@
       "Type": "Welkom terug!",
       "Titel": "Dé visualisatie software voor de vastgoed- en interieursector",
       "Text": "Met Unlit Studio creëer je in een handomdraai een levensechte 3D-woonruimte, compleet met meubels en decoratie.",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Render_Beusdoek-01032023.jpg",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Render_Fonq.jpg",
       "Link": "https://unlit.studio",
-      "Bulletpoint1": "• Floorify | in-lite | Eijffinger",
-      "Bulletpoint2": "• Wastoren | Erkers | BN Walls",
-      "Bulletpoint3": "• Design on Stock | Pode | by fonQ",
-      "Bulletpoint4": "• Leolux | Eyye | Arte | NCS kleuren",
+      "Bulletpoint1": "• Leolux | Pode",
+      "Bulletpoint2": "• Brinker | Besouw",
+      "Bulletpoint3": "• Bodilson | De Ploeg",
+      "Bulletpoint4": "• Metaform | Kvadrat",
       "Bulletpoint5": "• Ctrl + Z en Ctrl + Y functionaliteit",
       "Bulletpoint6": "• Live koppeling o.a. Sketchup (in ontwikkeling)",
       "Bulletpoint7": "• Automatisch plaatsen/schalen raamdecoratie",
@@ -42,9 +42,9 @@
   "Featured2": [
     {
       "Titel": "In the spotlight",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Spotlight-Kobe_Mimosa.jpg",
-      "Text": "Kobe",
-      "Link": "https://www.unlit.studio/unlit-portfolio/kobe/"
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Spotlight_Floorify.jpg",
+      "Text": "Floorify",
+      "Link": "https://www.unlit.studio/unlit-portfolio/floorify/"
 
     }
 
