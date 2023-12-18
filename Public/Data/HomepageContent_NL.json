@@ -52,7 +52,7 @@
   "WarningMessage": [
     {
       "Enabled": true,
-      "Text": "Wanneer na het opstarten van Unlit een melding over een plugin ervoor komt. Klik dan hier om Unlit automatisch te repareren."
+      "Text": "Als Unlit na het updaten niet opstart vanwege een melding, raden wij aan om de applicatie op te laten schonen met behulp van de reparatietool. Klik op dit venster om dit automatsich te laten doen."
     }
 
   ]
