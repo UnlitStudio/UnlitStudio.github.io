@@ -48,6 +48,12 @@
 
     }
 
+  "WarningMessage": [
+    {
+      "Enabled": true,
+      "Text": "Wanneer na het opstarten van Unlit een melding over een plugin ervoor komt. Klik dan hier om Unlit automatisch te repareren."
+    }
+
   ]
 
 }
