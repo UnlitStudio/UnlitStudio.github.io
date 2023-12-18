@@ -52,7 +52,7 @@
   "WarningMessage": [
     {
       "Enabled": true,
-      "Text": "Als Unlit na het updaten niet opstart vanwege een melding, raden wij aan om de applicatie op te laten schonen met behulp van de reparatietool. Klik op dit venster om dit automatsich te laten doen."
+      "Text": "Als Unlit na het updaten niet opstart vanwege een melding, raden wij aan om de applicatie op te laten schonen met behulp van de reparatietool. Klik op dit venster om dit automatsich te laten doen, het startportaal van Unlit dient hiervoor als Administrator gestart te zijn."
     }
 
   ]
