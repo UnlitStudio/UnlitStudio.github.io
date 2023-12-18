@@ -4,18 +4,18 @@
       "Type": "Welkom terug!",
       "Titel": "Dé visualisatie software voor de vastgoed- en interieursector",
       "Text": "Met Unlit Studio creëer je in een handomdraai een levensechte 3D-woonruimte, compleet met meubels en decoratie.",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Render_Fonq.jpg",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Homepage_BreesNewWorld.jpg",
       "Link": "https://unlit.studio",
-      "Bulletpoint1": "• Leolux | Pode",
-      "Bulletpoint2": "• Brinker | Besouw",
-      "Bulletpoint3": "• Bodilson | De Ploeg",
-      "Bulletpoint4": "• Metaform | Kvadrat",
-      "Bulletpoint5": "• Ctrl + Z en Ctrl + Y functionaliteit",
-      "Bulletpoint6": "• Live koppeling o.a. Sketchup (in ontwikkeling)",
-      "Bulletpoint7": "• Automatisch plaatsen/schalen raamdecoratie",
-      "Bulletpoint8": "• Configureerbare haarden",
-      "Bulletpoint9": "",
-      "Bulletpoint10": ""
+      "Bulletpoint1": "• Van Cadsand | Coretec",
+      "Bulletpoint2": "• Hooked On Walls | By Bjorn",
+      "Bulletpoint3": "• Bree's New World | Leolux",
+      "Bulletpoint4": "• Wastoren | Pode",
+      "Bulletpoint5": "• Vernieuwde tekenmodus d.m.v. kliksysteem",
+      "Bulletpoint6": "• Vernieuwde pathtracer met live functie (voor professionals)",
+      "Bulletpoint7": "• Uitgebreidere opties voor nabewerkingen in fotomodus",
+      "Bulletpoint8": "• Zoekvenster toegevoegd aan het onderste menu",
+      "Bulletpoint9": "• Mogelijkheid tot dupliceren van projecten en het toekennen van aangepaste namen",
+      "Bulletpoint10": "• Maatvoering projectie voor objecten t.o.v. omgeving"
     }
 
   ],
@@ -42,9 +42,9 @@
   "Featured2": [
     {
       "Titel": "In the spotlight",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Spotlight_Floorify.jpg",
-      "Text": "Floorify",
-      "Link": "https://www.unlit.studio/unlit-portfolio/floorify/"
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Spotlight_BreesNewWorld.jpg",
+      "Text": "Bree's New World",
+      "Link": "https://www.unlit.studio/unlit-portfolio/brees-new-world/"
 
     }
 
