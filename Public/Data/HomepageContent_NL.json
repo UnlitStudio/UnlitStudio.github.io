@@ -4,12 +4,12 @@
       "Type": "Welkom terug!",
       "Titel": "Dé visualisatie software voor de vastgoed- en interieursector",
       "Text": "Met Unlit Studio creëer je in een handomdraai een levensechte 3D-woonruimte, compleet met meubels en decoratie.",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Homepage_BreesNewWorld.jpg",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Render_Arne_07022024.jpg",
       "Link": "https://unlit.studio",
-      "Bulletpoint1": "• Van Cadsand | Coretec",
-      "Bulletpoint2": "• Hooked On Walls | By Bjorn",
-      "Bulletpoint3": "• Bree's New World | Leolux",
-      "Bulletpoint4": "• Wastoren | Pode",
+      "Bulletpoint1": "• Tafels van Forme",
+      "Bulletpoint2": "• Behangen van Noordwand",
+      "Bulletpoint3": "• Vloerkleden van Brinker",
+      "Bulletpoint4": "• Voordeuren in de tekenmodus",
       "Bulletpoint5": "• Vernieuwde tekenmodus d.m.v. kliksysteem",
       "Bulletpoint6": "• Vernieuwde pathtracer met live functie (voor professionals)",
       "Bulletpoint7": "• Uitgebreidere opties voor nabewerkingen in fotomodus",
@@ -22,7 +22,7 @@
 
   "Patchnotes": [
     {
-      "Titel": "Changelog 2023 - 1.2.0 - 'Bekijk de laatste updates'",
+      "Titel": "Changelog 2024 - 1.0.0 - 'Bekijk de laatste updates'",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Render_Nieuweversie-29082022.jpg",
       "Link": "https://www.unlit.studio/changelog/"
     }
@@ -42,16 +42,16 @@
   "Featured2": [
     {
       "Titel": "In the spotlight",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Spotlight_BreesNewWorld.jpg",
-      "Text": "Bree's New World",
-      "Link": "https://www.unlit.studio/unlit-portfolio/brees-new-world/"
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Spotlight_Label_Vandenberg.jpg",
+      "Text": "LABEL Vandenberg",
+      "Link": "https://unlit.studio/unlit-portfolio/label-vandenberg/"
     }
 
   ],
 
   "WarningMessage": [
     {
-      "Enabled": true,
+      "Enabled": false,
       "Text": "Als Unlit na het updaten niet opstart vanwege een melding, raden wij aan om de applicatie op te laten schonen met behulp van de reparatietool. Klik op dit venster om dit automatsich te laten doen, het startportaal van Unlit dient hiervoor als Administrator gestart te zijn!"
     }
 
