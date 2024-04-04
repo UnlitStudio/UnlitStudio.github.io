@@ -3,7 +3,7 @@
     {
       "Type": "Welkom terug!",
       "Titel": "Dé visualisatie software voor de vastgoed- en interieursector",
-      "Text": "Met Unlit Studio creëer je in een handomdraai een levensechte 3D-woonruimte, compleet met meubels en decoratie.",
+      "Text": "",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Render_Arne_07022024.jpg",
       "Link": "https://unlit.studio",
       "Bulletpoint1": "• Hofstede Raanhuis | Zizeau | Planten",
@@ -20,11 +20,11 @@
 
   ],
 
-  "Patchnotes": [
+  "Video": [
     {
-      "Titel": "Changelog 2024 - 1.0.0 - 'Bekijk de laatste updates'",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Render_Nieuweversie-29082022.jpg",
-      "Link": "https://www.unlit.studio/changelog/"
+	  "Titel": "Direct alles uit Unlit halen?",		
+      "Text": "De Nieuwste functies in Unlit - 2024.0.0'",
+      "Link": "https://youtu.be/QIeckh9qS4M"
     }
 
   ],
