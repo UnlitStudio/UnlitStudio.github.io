@@ -1,39 +1,39 @@
 {
   "News": [
     {
-      "Type": "Welcome Back!",
-      "Titel": "The visualization software for the real estate and interior sector",
-      "Text": "With Unlit Studio you can create a lifelike 3D living space in no time, complete with furniture and decoration.",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Render_Alwin-Slaapkamer.jpg",
+      "Type": "Welkom terug!",
+      "Titel": "Dé visualisatie software voor de vastgoed- en interieursector",
+      "Text": "",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Render_Arne_07022024.jpg",
       "Link": "https://unlit.studio",
-      "Bulletpoint1": "• Sigma | Histor",
-      "Bulletpoint2": "• Hebeta | Montinique",
-      "Bulletpoint3": "• Arte | Leolux",
-      "Bulletpoint4": "• Label van den Berg",
-      "Bulletpoint5": "• Save camera positions (Ctrl + 1/2/3/4)",
-      "Bulletpoint6": "• Configurable windows & window coverings",
-      "Bulletpoint7": "• Expanded import options (.obj .fbx .3ds)",
-      "Bulletpoint8": "• Cutting Holes in Walls (Drawing Mode)",
-      "Bulletpoint9": "• Expansion of prefab spaces (Drawing mode)",
-      "Bulletpoint10": "• HDRI level with unique lighting (Professional)"
+      "Bulletpoint1": "• Belledo | Gelderland",
+      "Bulletpoint2": "• Perletta/Beside | Lamett",
+      "Bulletpoint3": "• Stopcontacten & Lichtschakelaars",
+      "Bulletpoint4": "",
+      "Bulletpoint5": "• Pipetfunctie (om bestaande materialen eenvoudig op te pakken en elders toe te passen)",
+      "Bulletpoint6": "• Bucketfunctie (plaats een materiaal in de 'emmer' en pas dit eenvoudig toe op gewenste oppervlakken)",
+      "Bulletpoint7": "• Genereren van vloeren met hetzelfde klik-systeem als de muren",
+      "Bulletpoint8": "• Muurlengte handmatig invoeren tijdens het tekenen",
+      "Bulletpoint9": "• Wanden opknippen in de tekenmodus",
+      "Bulletpoint10": ""
     }
 
   ],
 
-  "Patchnotes": [
+  "Video": [
     {
-      "Titel": "Changelog 2023 - 1.0.0 - 'Check the latest updates'",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Render_Nieuweversie-29082022.jpg",
-      "Link": "https://www.unlit.studio/changelog/"
+	  "Titel": "Direct alles uit Unlit halen?",		
+      "Text": "De Nieuwste functies in Unlit - 2024.0.0'",
+      "Link": "https://youtu.be/QIeckh9qS4M"
     }
 
   ],
 
   "Featured": [
     {
-      "Titel": "Get everything out of Unlit",
+      "Titel": "Direct alles uit Unlit halen?",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Homepage_Leolux.jpg",
-      "Text": "Check out the tutorials",
+      "Text": "Tutorials bekijken",
       "Link": "https://youtube.com/playlist?list=PLRmJunNi2Q85OqdxyEEGG76OKs5PRmQgQ"
     }
 
@@ -42,10 +42,17 @@
   "Featured2": [
     {
       "Titel": "In the spotlight",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Spotlight-Kobe_Mimosa.jpg",
-      "Text": "Kobe",
-      "Link": "https://www.unlit.studio/unlit-portfolio/kobe/"
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Spotlight_Label_Vandenberg.jpg",
+      "Text": "LABEL Vandenberg",
+      "Link": "https://unlit.studio/unlit-portfolio/label-vandenberg/"
+    }
 
+  ],
+
+  "WarningMessage": [
+    {
+      "Enabled": false,
+      "Text": "Als Unlit na het updaten niet opstart vanwege een melding, raden wij aan om de applicatie op te laten schonen met behulp van de reparatietool. Klik op dit venster om dit automatsich te laten doen, het startportaal van Unlit dient hiervoor als Administrator gestart te zijn!"
     }
 
   ]
