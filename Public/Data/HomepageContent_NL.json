@@ -4,18 +4,18 @@
       "Type": "Welkom terug!",
       "Titel": "Dé visualisatie software voor de vastgoed- en interieursector",
       "Text": "",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Render_Arne_07022024.jpg",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Render_07102024.jpg",
       "Link": "https://unlit.studio",
-      "Bulletpoint1": "• Belledo | Gelderland",
-      "Bulletpoint2": "• Perletta/Beside | Lamett",
-      "Bulletpoint3": "• Stopcontacten & Lichtschakelaars",
-      "Bulletpoint4": "",
-      "Bulletpoint5": "• Pipetfunctie (om bestaande materialen eenvoudig op te pakken en elders toe te passen)",
-      "Bulletpoint6": "• Bucketfunctie (plaats een materiaal in de 'emmer' en pas dit eenvoudig toe op gewenste oppervlakken)",
-      "Bulletpoint7": "• Genereren van vloeren met hetzelfde klik-systeem als de muren",
-      "Bulletpoint8": "• Muurlengte handmatig invoeren tijdens het tekenen",
-      "Bulletpoint9": "• Wanden opknippen in de tekenmodus",
-      "Bulletpoint10": ""
+      "Bulletpoint1": "• Upstairs | Spinder Design | VICStairs | Rolf Benz",
+      "Bulletpoint2": "• Interfloor | Riviera Maison | Room5",
+      "Bulletpoint3": "• Holland Haag | Havee | Tacito",
+      "Bulletpoint4": "• Coretec | Studio Henk | Belakos",
+      "Bulletpoint5": "• Snijfunctie basisvormen (Boolean)",
+      "Bulletpoint6": "• Video Modus V1.0 & Watermerk",
+      "Bulletpoint7": "• Schuine Daken V1.0",
+      "Bulletpoint8": "• Product overzicht & CSV Export",
+      "Bulletpoint9": "• Verbeterde Focus functionaliteit (F toets)",
+      "Bulletpoint10": "• Verbeterde plattegrond camera"
     }
 
   ],
@@ -23,7 +23,7 @@
   "Video": [
     {
 	  "Titel": "Direct alles uit Unlit halen?",		
-      "Text": "De Nieuwste functies in Unlit - 2024.0.0'",
+      "Text": "De Nieuwste functies in Unlit - 2024.2.0'",
       "Link": "https://youtu.be/QIeckh9qS4M"
     }
 
@@ -32,7 +32,7 @@
   "Featured": [
     {
       "Titel": "Direct alles uit Unlit halen?",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Homepage_Leolux.jpg",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Unlit_Helpcentrum.jpg",
       "Text": "Tutorials bekijken",
       "Link": "https://youtube.com/playlist?list=PLRmJunNi2Q85OqdxyEEGG76OKs5PRmQgQ"
     }
@@ -42,9 +42,9 @@
   "Featured2": [
     {
       "Titel": "In the spotlight",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Spotlight_Label_Vandenberg.jpg",
-      "Text": "LABEL Vandenberg",
-      "Link": "https://unlit.studio/unlit-portfolio/label-vandenberg/"
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Spotlight_RolfBenz.jpg",
+      "Text": "Rolf Benz",
+      "Link": "https://www.rolf-benz.com/nl_BE/"
     }
 
   ],
