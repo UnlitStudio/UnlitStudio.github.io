@@ -58,6 +58,21 @@
       "Size": "0 MB",
       "Version": "1.0.0",
       "VersionDate": "24-05-2023"
+    },
+
+    {
+      "brand": "Mensen",
+      "chunkid": 10007,
+      "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10007-Windows.pak",
+      "zipname": "pakchunk10007-Windows.pak",
+      "enabled": true,
+      "websitelink": "https://www.unlit.studio/",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Mensen.png",
+      "ModelCount": "6",
+      "Description": " Vul je tuin aan met onze standaard tuinmeubilair.",
+      "Size": "0 MB",
+      "Version": "1.0.0",
+      "VersionDate": "24-05-2023"
     }
 
   ]
