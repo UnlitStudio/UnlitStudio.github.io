@@ -4,7 +4,7 @@
             "brand": "VICstairs",
             "chunkid": 10210,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10210-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/vicstairs.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/VICstairs.png",
             "filters": [
                 "Trappen",
                 "Interieur"
@@ -14,7 +14,7 @@
             "brand": "Castelijn",
             "chunkid": 10209,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10209-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/castelijn.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Castelijn.png",
             "filters": [
                 "Meubels",
                 "Design"
@@ -24,7 +24,7 @@
             "brand": "Belledo",
             "chunkid": 10208,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10208-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/belledo.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Belledo.png",
             "filters": [
                 "Verlichting",
                 "Design"
@@ -34,7 +34,7 @@
             "brand": "Perletta",
             "chunkid": 10207,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10207-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/perletta.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Perletta.png",
             "filters": [
                 "Vloerkleden",
                 "Textiel"
@@ -44,7 +44,7 @@
             "brand": "Lamett",
             "chunkid": 10206,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10206-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/lamett.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Lamett.png",
             "filters": [
                 "Vloeren",
                 "Hout"
@@ -54,7 +54,7 @@
             "brand": "Zizeau",
             "chunkid": 10205,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10205-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/zizeau.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Zizeau.png",
             "filters": [
                 "Meubels",
                 "Design"
@@ -64,7 +64,7 @@
             "brand": "Bece",
             "chunkid": 10203,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10203-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/bece.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Bece.png",
             "filters": [
                 "Raamdecoratie",
                 "Textiel"
@@ -74,7 +74,7 @@
             "brand": "Akupanel",
             "chunkid": 10202,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10202-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/akupanel.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Akupanel.png",
             "filters": [
                 "Akoestische panelen",
                 "Interieur"
@@ -84,7 +84,7 @@
             "brand": "Hofstede Raanhuis",
             "chunkid": 10201,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10201-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/hofstederaanhuis.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Hofstede-Raanhuis.png",
             "filters": [
                 "Meubels",
                 "Design"
@@ -94,7 +94,7 @@
             "brand": "Forme",
             "chunkid": 10199,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10199-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/forme.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Forme.png",
             "filters": [
                 "Deuren",
                 "Interieur"
@@ -104,7 +104,7 @@
             "brand": "Noordwand",
             "chunkid": 10200,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10200-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/noordwand.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Noordwand.png",
             "filters": [
                 "Behang",
                 "Muren"
@@ -114,7 +114,7 @@
             "brand": "Van Cadsand",
             "chunkid": 10198,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10198-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/vancadsand.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/126.png",
             "filters": [
                 "Meubels",
                 "Design"
@@ -124,7 +124,7 @@
             "brand": "Coretec",
             "chunkid": 10197,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10197-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/coretec.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/127.png",
             "filters": [
                 "Vloeren",
                 "Hout"
@@ -134,7 +134,7 @@
             "brand": "Hooked On Walls",
             "chunkid": 10196,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10196-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/hookedonwalls.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/108.png",
             "filters": [
                 "Behang",
                 "Muren"
@@ -144,7 +144,7 @@
             "brand": "Brees New World",
             "chunkid": 10195,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10195-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/breesnewworld.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/128.png",
             "filters": [
                 "Meubels",
                 "Design"
@@ -154,7 +154,7 @@
             "brand": "By Bjorn",
             "chunkid": 10194,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10194-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/bybjorn.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/129.png",
             "filters": [
                 "Meubels",
                 "Design"
@@ -164,7 +164,7 @@
             "brand": "Bodilson",
             "chunkid": 10193,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10193-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/bodilson.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/123.png",
             "filters": [
                 "Meubels",
                 "Interieur"
@@ -174,7 +174,7 @@
             "brand": "Zonnelux",
             "chunkid": 10192,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10192-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/zonnelux.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/111.png",
             "filters": [
                 "Raamdecoratie",
                 "Textiel"
@@ -184,7 +184,7 @@
             "brand": "Brinker",
             "chunkid": 10190,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10190-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/brinker.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/124.png",
             "filters": [
                 "Vloerkleden",
                 "Textiel"
@@ -194,7 +194,7 @@
             "brand": "Metaform",
             "chunkid": 10191,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10191-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/metaform.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/125.png",
             "filters": [
                 "Meubels",
                 "Design"
@@ -204,7 +204,7 @@
             "brand": "Floorify",
             "chunkid": 10186,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10186-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/floorify.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/118.png",
             "filters": [
                 "Vloeren",
                 "PVC"
@@ -214,7 +214,7 @@
             "brand": "NCS Kleuren",
             "chunkid": 10188,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10188-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/ncskleuren.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/119.png",
             "filters": [
                 "Verf",
                 "Kleuren"
@@ -224,7 +224,7 @@
             "brand": "Wastoren",
             "chunkid": 10189,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10189-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/wastoren.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/121.png",
             "filters": [
                 "Opslag",
                 "Wastorens"
@@ -234,7 +234,7 @@
             "brand": "FonQ",
             "chunkid": 10182,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10182-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/fonq.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/112.png",
             "filters": [
                 "Woonaccessoires",
                 "Interieur"
@@ -244,7 +244,7 @@
             "brand": "PilatenPilat",
             "chunkid": 10185,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10185-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/pilatenpilat.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/114.png",
             "filters": [
                 "Meubels",
                 "Design"
@@ -254,7 +254,7 @@
             "brand": "inlite",
             "chunkid": 10184,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10184-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/inlite.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/116.png",
             "filters": [
                 "Verlichting",
                 "Tuin"
@@ -264,7 +264,7 @@
             "brand": "Moome",
             "chunkid": 10183,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10183-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/moome.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/113.png",
             "filters": [
                 "Meubels",
                 "Design"
@@ -274,7 +274,7 @@
             "brand": "Trendhopper",
             "chunkid": 10181,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10181-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/trendhopper.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/117.png",
             "filters": [
                 "Meubels",
                 "Interieur"
@@ -284,7 +284,7 @@
             "brand": "Saunaco",
             "chunkid": 10180,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10180-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/saunaco.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/115.png",
             "filters": [
                 "Sauna",
                 "Wellness"
@@ -294,7 +294,7 @@
             "brand": "Montinique",
             "chunkid": 10179,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10179-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/montinique.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/109.png",
             "filters": [
                 "Meubels",
                 "Design"
@@ -304,7 +304,7 @@
             "brand": "Excluton",
             "chunkid": 10159,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10159-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/excluton.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/97.png",
             "filters": [
                 "Bestrating",
                 "Tuin"
@@ -314,7 +314,7 @@
             "brand": "Hebeta",
             "chunkid": 10178,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10178-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/hebeta.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/106.png",
             "filters": [
                 "Schuifdeuren",
                 "Interieur"
@@ -324,7 +324,7 @@
             "brand": "Sigma",
             "chunkid": 10177,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10177-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/sigma.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/110.png",
             "filters": [
                 "Verf",
                 "Kleuren"
@@ -334,7 +334,7 @@
             "brand": "Histor",
             "chunkid": 10176,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10176-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/histor.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/107.png",
             "filters": [
                 "Verf",
                 "Kleuren"
@@ -344,7 +344,7 @@
             "brand": "Leolux",
             "chunkid": 10137,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10137-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/leolux.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/47.png",
             "filters": [
                 "Meubels",
                 "Design"
@@ -354,7 +354,7 @@
             "brand": "Pode",
             "chunkid": 10140,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10140-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/pode.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/22.png",
             "filters": [
                 "Meubels",
                 "Design"
@@ -364,7 +364,7 @@
             "brand": "Cotap",
             "chunkid": 10172,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10172-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/cotap.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/122.png",
             "filters": [
                 "Vloeren",
                 "Hout"
@@ -384,7 +384,7 @@
             "brand": "Farrow & Ball",
             "chunkid": 10175,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10175-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/farrowandball.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/105.png",
             "filters": [
                 "Verf",
                 "Kleuren"
@@ -394,7 +394,7 @@
             "brand": "Trendhout",
             "chunkid": 10174,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10174-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/trendhout.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/104.png",
             "filters": [
                 "Tuinhuizen",
                 "Buiten"
@@ -404,7 +404,7 @@
             "brand": "Belakos",
             "chunkid": 10169,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10169-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/belakos.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/90.png",
             "filters": [
                 "Vloeren",
                 "Tapijt"
@@ -414,7 +414,7 @@
             "brand": "Jess Design",
             "chunkid": 10171,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10171-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/jessdesign.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/99.png",
             "filters": [
                 "Meubels",
                 "Design"
@@ -424,7 +424,7 @@
             "brand": "INTR",
             "chunkid": 10170,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10170-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/intr.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/100.png",
             "filters": [
                 "Verlichting",
                 "Design"
@@ -434,7 +434,7 @@
             "brand": "TEGL",
             "chunkid": 10168,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10168-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/tegl.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/98.png",
             "filters": [
                 "Tegels",
                 "Vloeren"
@@ -444,7 +444,7 @@
             "brand": "Desso",
             "chunkid": 10147,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10147-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/desso.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/25.png",
             "filters": [
                 "Vloeren",
                 "Tapijt"
@@ -454,7 +454,7 @@
             "brand": "Dutchbone",
             "chunkid": 10118,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10118-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/dutchbone.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/64.png",
             "filters": [
                 "Meubels",
                 "Interieur"
@@ -464,7 +464,7 @@
             "brand": "Therdex",
             "chunkid": 10146,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10146-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/therdex.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/96.png",
             "filters": [
                 "Vloeren",
                 "PVC"
@@ -474,7 +474,7 @@
             "brand": "Design On Stock",
             "chunkid": 10165,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10165-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/designonstock.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/94.png",
             "filters": [
                 "Meubels",
                 "Design"
@@ -484,7 +484,7 @@
             "brand": "EYYE",
             "chunkid": 10164,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10164-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/eyye.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/93.png",
             "filters": [
                 "Meubels",
                 "Design"
@@ -494,7 +494,7 @@
             "brand": "IJcoon",
             "chunkid": 10163,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10163-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/ijcoon.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/92.png",
             "filters": [
                 "Meubels",
                 "Design"
@@ -504,7 +504,7 @@
             "brand": "FP Collection",
             "chunkid": 10167,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10167-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/fpcollection.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/95.png",
             "filters": [
                 "Meubels",
                 "Interieur"
@@ -514,7 +514,7 @@
             "brand": "vtwonen",
             "chunkid": 10161,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10161-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/vtwonen.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/88.png",
             "filters": [
                 "Meubels",
                 "Interieur"
@@ -524,7 +524,7 @@
             "brand": "WOOOD",
             "chunkid": 10160,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10160-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/woood.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/87.png",
             "filters": [
                 "Meubels",
                 "Interieur"
@@ -534,7 +534,7 @@
             "brand": "BePureHome",
             "chunkid": 10162,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10162-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/bepurehome.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/86.png",
             "filters": [
                 "Meubels",
                 "Interieur"
@@ -544,7 +544,7 @@
             "brand": "BKS Meubelen",
             "chunkid": 10158,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10158-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/bksmeubelen.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/85.png",
             "filters": [
                 "Meubels",
                 "Design"
@@ -554,7 +554,7 @@
             "brand": "Vivafloors",
             "chunkid": 10157,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10157-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/vivafloors.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/84.png",
             "filters": [
                 "Vloeren",
                 "PVC"
@@ -564,7 +564,7 @@
             "brand": "Artifort",
             "chunkid": 10155,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10155-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/artifort.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/40.png",
             "filters": [
                 "Meubels",
                 "Design"
@@ -574,7 +574,7 @@
             "brand": "Eijffinger",
             "chunkid": 10156,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10156-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/eijffinger.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/42.png",
             "filters": [
                 "Behang",
                 "Muren"
@@ -584,7 +584,7 @@
             "brand": "Behangexpresse",
             "chunkid": 10101,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10101-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/behangexpresse.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/54.png",
             "filters": [
                 "Behang",
                 "Muren"
@@ -594,7 +594,7 @@
             "brand": "Flexa",
             "chunkid": 10111,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10111-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/flexa.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/55.png",
             "filters": [
                 "Verf",
                 "Kleuren"
@@ -604,7 +604,7 @@
             "brand": "Kvadrat",
             "chunkid": 10112,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10112-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/kvadrat.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/53.png",
             "filters": [
                 "Textiel",
                 "Meubels"
@@ -614,7 +614,7 @@
             "brand": "Werk Aan De Muur",
             "chunkid": 10113,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10113-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/werkaandemuur.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/43.png",
             "filters": [
                 "Wanddecoratie",
                 "Kunst"
@@ -624,7 +624,7 @@
             "brand": "mFlor",
             "chunkid": 10114,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10114-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/mflor.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/37.png",
             "filters": [
                 "Vloeren",
                 "PVC"
@@ -634,7 +634,7 @@
             "brand": "&Tradition",
             "chunkid": 10116,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10116-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/&tradition.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/56.png",
             "filters": [
                 "Meubels",
                 "Design"
@@ -644,7 +644,7 @@
             "brand": "Bert Plantagie",
             "chunkid": 10117,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10117-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/bertplantagie.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/58.png",
             "filters": [
                 "Meubels",
                 "Design"
@@ -654,7 +654,7 @@
             "brand": "Faber",
             "chunkid": 10119,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10119-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/faber.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/65.png",
             "filters": [
                 "Haarden",
                 "Buiten"
@@ -664,7 +664,7 @@
             "brand": "Gelderland",
             "chunkid": 10134,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10134-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/gelderland.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/23.png",
             "filters": [
                 "Meubels",
                 "Design"
@@ -674,7 +674,7 @@
             "brand": "Hay",
             "chunkid": 10135,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10135-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/hay.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/44.png",
             "filters": [
                 "Meubels",
                 "Design"
@@ -684,7 +684,7 @@
             "brand": "HKliving",
             "chunkid": 10136,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10136-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/hkliving.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/45.png",
             "filters": [
                 "Meubels",
                 "Interieur"
@@ -694,7 +694,7 @@
             "brand": "Montis",
             "chunkid": 10138,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10138-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/montis.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/59.png",
             "filters": [
                 "Meubels",
                 "Design"
@@ -704,7 +704,7 @@
             "brand": "Muuto",
             "chunkid": 10139,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10139-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/muuto.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/60.png",
             "filters": [
                 "Meubels",
                 "Design"
@@ -714,7 +714,7 @@
             "brand": "Studio Henk",
             "chunkid": 10141,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10141-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/studiohenk.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/51.png",
             "filters": [
                 "Meubels",
                 "Design"
@@ -724,7 +724,7 @@
             "brand": "Vitra",
             "chunkid": 10142,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10142-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/vitra.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/50.png",
             "filters": [
                 "Meubels",
                 "Design"
@@ -734,7 +734,7 @@
             "brand": "Tarkett",
             "chunkid": 10166,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10166-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/tarkett.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/24.png",
             "filters": [
                 "Vloeren",
                 "PVC"
@@ -744,7 +744,7 @@
             "brand": "Zuiver Group",
             "chunkid": 10143,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10143-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/zuivergroup.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/48.png",
             "filters": [
                 "Meubels",
                 "Interieur"
@@ -754,7 +754,7 @@
             "brand": "Label VAN DEN BERG",
             "chunkid": 10144,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10144-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/labelvandenberg.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/20.png",
             "filters": [
                 "Meubels",
                 "Design"
@@ -764,7 +764,7 @@
             "brand": "Lattenwand",
             "chunkid": 10145,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10145-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/lattenwand.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/39.png",
             "filters": [
                 "Interieur",
                 "Lattenwanden"
@@ -774,7 +774,7 @@
             "brand": "Dru",
             "chunkid": 10148,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10148-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/dru.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/66.png",
             "filters": [
                 "Haarden",
                 "Interieur"
@@ -784,7 +784,7 @@
             "brand": "HaardenExpert",
             "chunkid": 10149,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10149-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/haardenexpert.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/21.png",
             "filters": [
                 "Haarden",
                 "Interieur"
@@ -794,7 +794,7 @@
             "brand": "Interstar",
             "chunkid": 10150,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10150-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/interstar.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/26.png",
             "filters": [
                 "Meubels",
                 "Interieur"
@@ -804,7 +804,7 @@
             "brand": "De Ploeg",
             "chunkid": 10110,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10110-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/deploeg.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/52.png",
             "filters": [
                 "Textiel",
                 "Raamdecoratie"
@@ -814,7 +814,7 @@
             "brand": "QuickStep",
             "chunkid": 10151,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10151-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/quickstep.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/38.png",
             "filters": [
                 "Vloeren",
                 "Laminaat"
@@ -824,7 +824,7 @@
             "brand": "Spectrum 3D",
             "chunkid": 10152,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10152-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/spectrum3d.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/61.png",
             "filters": [
                 "3D Printen",
                 "Design"
@@ -834,7 +834,7 @@
             "brand": "Lucide",
             "chunkid": 10153,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10153-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/lucide.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/83.png",
             "filters": [
                 "Verlichting",
                 "Interieur"
@@ -844,7 +844,7 @@
             "brand": "Atelier Artiforte",
             "chunkid": 10154,
             "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10154-Windows.pak",
-            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/atelierartiforte.png",
+            "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/62.png",
             "filters": [
                 "Meubels",
                 "Design"
