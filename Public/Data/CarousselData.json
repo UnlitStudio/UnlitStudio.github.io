@@ -1,0 +1,26 @@
+[
+  {
+    "Title": "Demo & Masterclasses",
+    "Subtitle": "Leer in gratis webinars/masterclasses de kracht van Unlit Studio kennen.",
+    "ButtonText": "Bekijk de webinars",
+    "ButtonLink": "https://www.unlit.studio/webinar"
+  },
+  {
+    "Title": "Live Training in Zwolle & Boxtel",
+    "Subtitle": "Hands-on training met een professional om Unlit Studio optimaal te leren gebruiken.",
+    "ButtonText": "Schrijf je in",
+    "ButtonLink": "https://www.unlit.studio/training"
+  },
+  {
+    "Title": "Vernieuwd Helpcentrum",
+    "Subtitle": "Vind snel antwoorden en leer alles over de software.",
+    "ButtonText": "Bezoek het helpcentrum",
+    "ButtonLink": "https://help.unlit.studio/"
+  },
+  {
+    "Title": "Samenwerking met Riviera Maison",
+    "Subtitle": "Lees over de nieuwe samenwerking met Riviera Maison.",
+    "ButtonText": "Lees de case",
+    "ButtonLink": "https://www.unlit.studio/cases/riviera-maison"
+  }
+]
