@@ -3,24 +3,28 @@
     "Title": "Demo & Masterclasses",
     "Subtitle": "Leer in gratis webinars/masterclasses de kracht van Unlit Studio kennen.",
     "ButtonText": "Bekijk de webinars",
-    "ButtonLink": "https://www.unlit.studio/webinar"
+    "ButtonLink": "https://www.unlit.studio/webinar",
+    "ImageURL": "https://UnlitStudio.github.io/Public/Data/Homepage/Homepage_BreesNewWorld.jpg"
   },
   {
     "Title": "Live Training in Zwolle & Boxtel",
     "Subtitle": "Hands-on training met een professional om Unlit Studio optimaal te leren gebruiken.",
     "ButtonText": "Schrijf je in",
-    "ButtonLink": "https://www.unlit.studio/training"
+    "ButtonLink": "https://www.unlit.studio/training",
+    "ImageURL": "https://UnlitStudio.github.io/Public/Data/Render_Alwin-Slaapkamer.jpg"
   },
   {
     "Title": "Vernieuwd Helpcentrum",
     "Subtitle": "Vind snel antwoorden en leer alles over de software.",
     "ButtonText": "Bezoek het helpcentrum",
-    "ButtonLink": "https://help.unlit.studio/"
+    "ButtonLink": "https://help.unlit.studio/",
+    "ImageURL": "https://UnlitStudio.github.io/Public/Data/Homepage/Render_Arne_07022024.jpg"
   },
   {
     "Title": "Samenwerking met Riviera Maison",
     "Subtitle": "Lees over de nieuwe samenwerking met Riviera Maison.",
     "ButtonText": "Lees de case",
-    "ButtonLink": "https://www.unlit.studio/cases/riviera-maison"
+    "ButtonLink": "https://www.unlit.studio/cases/riviera-maison",
+    "ImageURL": "https://UnlitStudio.github.io/Public/Data/Homepage/Render_Beusdoek-01032023.jpg"
   }
 ]
