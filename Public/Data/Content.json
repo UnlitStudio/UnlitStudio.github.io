@@ -741,16 +741,6 @@
       ]
     },
     {
-      "brand": "Kobe",
-      "chunkid": 10173,
-      "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10173-Windows.pak",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Logos/Normal/kobe.png",
-      "filters": [
-        "Textiel",
-        "Raamdecoratie"
-      ]
-    },
-    {
       "brand": "Farrow & Ball",
       "chunkid": 10175,
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10175-Windows.pak",
@@ -998,16 +988,6 @@
       "filters": [
         "Vloeren",
         "PVC"
-      ]
-    },
-    {
-      "brand": "&Tradition",
-      "chunkid": 10116,
-      "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10116-Windows.pak",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/56.png",
-      "filters": [
-        "Meubels",
-        "Design"
       ]
     },
     {
