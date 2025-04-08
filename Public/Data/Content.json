@@ -531,16 +531,6 @@
       ]
     },
     {
-      "brand": "Bodilson",
-      "chunkid": 10193,
-      "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10193-Windows.pak",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/123.png",
-      "filters": [
-        "Meubels",
-        "Interieur"
-      ]
-    },
-    {
       "brand": "Zonnelux",
       "chunkid": 10192,
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10192-Windows.pak",
