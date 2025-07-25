@@ -1,5 +1,19 @@
 [
   {
+    "Title": "De nieuwste functies",
+    "Subtitle": "Bekijk hier een korte showcase over alle nieuwe functies.",
+    "ButtonText": "Bekijk de video",
+    "ButtonLink": "https://youtu.be/Z7QQg_1I0Nk",
+    "ImageURL": "https://UnlitStudio.github.io/Public/Data/Homepage/Update_Showcase.jpg"
+  },
+  {
+    "Title": "Unlit gaat de Tuin in",
+    "Subtitle": "Wil jij ook op de hoogte blijven? Meld je hier aan voor onze speciale nieuwsbrief.",
+    "ButtonText": "Aanmelden",
+    "ButtonLink": "https://5aabz.share.hsforms.com/2BpCcotwwTGSGKNOrEYyShw",
+    "ImageURL": "https://UnlitStudio.github.io/Public/Data/Homepage/Unlit_Gaat_De_Tuin_In_08072025.jpg"
+  },
+  {
     "Title": "Demo & Masterclasses",
     "Subtitle": "Leer in gratis webinars/masterclasses de kracht van Unlit Studio kennen.",
     "ButtonText": "Bekijk de webinars",
@@ -12,19 +26,5 @@
     "ButtonText": "Schrijf je in",
     "ButtonLink": "https://www.unlit.studio/training",
     "ImageURL": "https://UnlitStudio.github.io/Public/Data/Homepage/Render_Alwin_Slaapkamer.jpg"
-  },
-  {
-    "Title": "Vernieuwd Helpcentrum",
-    "Subtitle": "Vind snel antwoorden en leer alles over de software.",
-    "ButtonText": "Bezoek het helpcentrum",
-    "ButtonLink": "https://help.unlit.studio/",
-    "ImageURL": "https://UnlitStudio.github.io/Public/Data/Homepage/Render_Arne_07022024.jpg"
-  },
-  {
-    "Title": "Unlit gaat de Tuin in",
-    "Subtitle": "Wil jij ook op de hoogte blijven? Meld je hier aan voor onze speciale nieuwsbrief.",
-    "ButtonText": "Aanmelden",
-    "ButtonLink": "https://5aabz.share.hsforms.com/2BpCcotwwTGSGKNOrEYyShw",
-    "ImageURL": "https://UnlitStudio.github.io/Public/Data/Homepage/Unlit_Gaat_De_Tuin_In_08072025.jpg"
   }
 ]
