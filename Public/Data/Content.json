@@ -1,6 +1,16 @@
 {
   "Content": [
     {
+      "brand": "Masureel",
+      "chunkid": 10254,
+      "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10254-Windows.pak",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Masureel.png",
+      "filters": [
+        "Behang",
+        "Interieur"
+      ]
+    },
+    {
       "brand": "A House Of Happiness",
       "chunkid": 10253,
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10253-Windows.pak",
