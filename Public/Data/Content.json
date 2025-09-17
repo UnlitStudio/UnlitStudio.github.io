@@ -411,6 +411,16 @@
       ]
     },
     {
+      "brand": "Interfloor",
+      "chunkid": 10212,
+      "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10212-Windows.pak",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Interfloor.png",
+      "filters": [
+        "Tapijt",
+        "Interieur"
+      ]
+    },
+    {
       "brand": "Hamat",
       "chunkid": 10211,
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10211-Windows.pak",
