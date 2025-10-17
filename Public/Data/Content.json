@@ -1,6 +1,16 @@
 {
   "Content": [
     {
+      "brand": "Decotrap",
+      "chunkid": 10221,
+      "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10221-Windows.pak",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Decotrap.png",
+      "filters": [
+        "Behang",
+        "Interieur"
+      ]
+    },
+    {
       "brand": "Toppoint",
       "chunkid": 10262,
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10262-Windows.pak",
