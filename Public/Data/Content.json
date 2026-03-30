@@ -21,16 +21,6 @@
       ]
     },
     {
-      "brand": "BommelWonen",
-      "chunkid": 10284,
-      "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10284-Windows.pak",
-      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/BommelWonen.png",
-      "filters": [
-        "Interieur",
-        "Meubels"
-      ]
-    },
-    {
       "brand": "Floer",
       "chunkid": 10283,
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10283-Windows.pak",
