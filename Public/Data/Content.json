@@ -70,6 +70,16 @@
         "Verlichting"
       ]
     },
+	    {
+      "brand": "Deponti",
+      "chunkid": 10280,
+      "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10280-Windows.pak",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Deponti.png",
+      "filters": [
+        "Exterieur",
+        "Overkappingen"
+      ]
+    },
     {
       "brand": "Q-Liv",
       "chunkid": 10279,
