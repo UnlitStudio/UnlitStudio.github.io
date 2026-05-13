@@ -3,7 +3,7 @@
       {
       "brand": "Blecks",
       "chunkid": 10289,
-      "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10289-Windows.pak",
+      "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10289-windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Blecks.png",
       "filters": [
         "Interieur",
@@ -13,7 +13,7 @@
 	    {
       "brand": "Floorward",
       "chunkid": 10287,
-      "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10287-Windows.pak",
+      "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10287-windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Floorward.png",
       "filters": [
         "Interieur",
