@@ -7,11 +7,18 @@
     "ImageURL": "https://UnlitStudio.github.io/Public/Data/Homepage/Unlit_Community.jpg"
   },
   {
-    "Title": "Unlit is gelanceerd!",
-    "Subtitle": "Onze lancering in de tuinenbranche is een feit. Schrijf je in voor de nieuwsbrief en blijf altijd op de hoogte.",
-    "ButtonText": "Aanmelden",
-    "ButtonLink": "https://5aabz.share.hsforms.com/2BpCcotwwTGSGKNOrEYyShw",
-    "ImageURL": "https://UnlitStudio.github.io/Public/Data/Homepage/Render_Unlit_Tuinen.jpg"
+    "Title": "Render met AI!",
+    "Subtitle": "Genereer een fotorealistisch beeld van je ontwerp met AI. Direct een overtuigend eindresultaat, zonder lange rendertijd.",
+    "ButtonText": "Meer info",
+    "ButtonLink": "https://help.unlit.studio/ai-render-gebruiken",
+    "ImageURL": "https://UnlitStudio.github.io/Public/Data/Homepage/Unlit_AI_Render.jpg"
+  },
+  {
+    "Title": "Unlit Vision staat live!",
+    "Subtitle": "Maak indruk op je klanten met fotorealistische visualisaties die precies laten zien wat jij in gedachten hebt. Benieuwd? Ervaar het vanaf nu zelf.",
+    "ButtonText": "Bekijk het hier",
+    "ButtonLink": "https://app.unlit.studio",
+    "ImageURL": "https://UnlitStudio.github.io/Public/Data/Homepage/Unlit_Vision.jpg"
   },
   {
     "Title": "Demo & Masterclasses",
@@ -19,12 +26,5 @@
     "ButtonText": "Bekijk de webinars",
     "ButtonLink": "https://www.unlit.studio/webinar",
     "ImageURL": "https://UnlitStudio.github.io/Public/Data/Homepage/Homepage_BreesNewWorld.jpg"
-  },
-  {
-    "Title": "Live Training in Zwolle & Boxtel",
-    "Subtitle": "Hands-on training met een professional om Unlit Studio optimaal te leren gebruiken.",
-    "ButtonText": "Schrijf je in",
-    "ButtonLink": "https://www.unlit.studio/training",
-    "ImageURL": "https://UnlitStudio.github.io/Public/Data/Homepage/Mockup_Unlit_Studio.jpg"
   }
 ]
