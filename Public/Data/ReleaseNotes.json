@@ -1,0 +1,63 @@
+[
+    {
+        "product": "studio",
+        "version": "2026.1.0",
+        "date": "30 March 2026",
+        "channel": "stable",
+        "commit": "fb0c5e6cdefa177c4f8a4af9c8b59ba5cd899660",
+        "items": [
+            {
+                "kind": "new",
+                "text": "Modular Kitchen configurator - build custom kitchens with cabinets, appliances, segments and material presets, including automatic snapping and edge-conforming geometry."
+            },
+            {
+                "kind": "new",
+                "text": "Camera rails for cinematic video captures, powered by a dedicated Movie Render Manager."
+            },
+            {
+                "kind": "new",
+                "text": "StyleMatch integration - connect a StyleMatch account directly from Unlit Studio to exchange interior passports and visualizations."
+            },
+            {
+                "kind": "new",
+                "text": "Bommel Wonen chair configurator, plus separate table-top configurators for Bommel Wonen and Dyyk."
+            },
+            {
+                "kind": "new",
+                "text": "New post-processing outline pass for clearer object highlighting."
+            },
+            {
+                "kind": "new",
+                "text": "15+ new brands and collections added, including Toppoint, Anvia, Zolare, Pode, Leolux, Holland Haag, Pastoe, Floer, Werk aan de Muur, Montis, Het Anker, Deponti Overkappingen and Eijffinger."
+            },
+            {
+                "kind": "imp",
+                "text": "Reworked procedural \"legged furniture\" classes powering the new Modular Kitchen and table configurators."
+            },
+            {
+                "kind": "imp",
+                "text": "Added keyboard hotkeys for faster scene navigation."
+            },
+            {
+                "kind": "imp",
+                "text": "Refreshed materials and thumbnails across several brands (Toppoint, Floer, Trendhopper) for more accurate previews."
+            },
+            {
+                "kind": "fix",
+                "text": "Fixed camera collisions with procedural meshes, awning rotation on rotated walls, and a mesh-mirroring performance issue."
+            },
+            {
+                "kind": "fix",
+                "text": "Fixed the tile pattern option being limited to the Pro tier - it's now available in all versions."
+            },
+            {
+                "kind": "fix",
+                "text": "Fixed a duplication bug in procedural curtains."
+            },
+            {
+                "kind": "fix",
+                "text": "Fixed missing meshes and asset redirectors affecting several brand imports."
+            }
+        ]
+    }
+]
