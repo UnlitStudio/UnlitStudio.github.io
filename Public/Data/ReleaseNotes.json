@@ -2,61 +2,61 @@
     {
         "product": "studio",
         "version": "2026.1.0",
-        "date": "30 March 2026",
+        "date": "30 maart 2026",
         "channel": "stable",
         "commit": "fb0c5e6cdefa177c4f8a4af9c8b59ba5cd899660",
         "items": [
             {
                 "kind": "new",
-                "text": "Modular Kitchen configurator - build custom kitchens with cabinets, appliances, segments and material presets, including automatic snapping and edge-conforming geometry."
+                "text": "Modulaire Keuken-configurator: stel keukens samen met kasten, apparatuur, segmenten en materiaalpresets, inclusief automatisch aansluiten (snapping)."
             },
             {
                 "kind": "new",
-                "text": "Camera rails for cinematic video captures, powered by a dedicated Movie Render Manager."
+                "text": "Camerarails voor cinematische video-opnames, aangedreven door een nieuwe Movie Render Manager."
             },
             {
                 "kind": "new",
-                "text": "StyleMatch integration - connect a StyleMatch account directly from Unlit Studio to exchange interior passports and visualizations."
+                "text": "StyleMatch-integratie: koppel een StyleMatch-account direct vanuit Unlit Studio om interieurpaspoorten en visualisaties uit te wisselen."
             },
             {
                 "kind": "new",
-                "text": "Bommel Wonen chair configurator, plus separate table-top configurators for Bommel Wonen and Dyyk."
+                "text": "Bommel Wonen stoelconfigurator, plus aparte tafelbladconfiguratoren voor Bommel Wonen en Dyyk."
             },
             {
                 "kind": "new",
-                "text": "New post-processing outline pass for clearer object highlighting."
+                "text": "Nieuwe post-processing outline voor duidelijkere objectmarkering."
             },
             {
                 "kind": "new",
-                "text": "15+ new brands and collections added, including Toppoint, Anvia, Zolare, Pode, Leolux, Holland Haag, Pastoe, Floer, Werk aan de Muur, Montis, Het Anker, Deponti Overkappingen and Eijffinger."
+                "text": "15+ nieuwe merken en collecties toegevoegd, waaronder Toppoint, Anvia, Zolare, Pode, Leolux, Holland Haag, Pastoe, Floer, Werk aan de Muur, Montis, Het Anker, Deponti Overkappingen en Eijffinger."
             },
             {
                 "kind": "imp",
-                "text": "Reworked procedural \"legged furniture\" classes powering the new Modular Kitchen and table configurators."
+                "text": "Procedurele klassen voor 'meubels met poten' herzien - de basis voor de nieuwe Modulaire Keuken en tafelconfiguratoren."
             },
             {
                 "kind": "imp",
-                "text": "Added keyboard hotkeys for faster scene navigation."
+                "text": "Sneltoetsen toegevoegd voor snellere scène-navigatie."
             },
             {
                 "kind": "imp",
-                "text": "Refreshed materials and thumbnails across several brands (Toppoint, Floer, Trendhopper) for more accurate previews."
+                "text": "Materialen en thumbnails vernieuwd voor meerdere merken (Toppoint, Floer, Trendhopper) voor nauwkeurigere previews."
             },
             {
                 "kind": "fix",
-                "text": "Fixed camera collisions with procedural meshes, awning rotation on rotated walls, and a mesh-mirroring performance issue."
+                "text": "Cameracollisies met procedurele meshes, rotatie van luifels op gedraaide muren en een prestatieprobleem bij het spiegelen van meshes opgelost."
             },
             {
                 "kind": "fix",
-                "text": "Fixed the tile pattern option being limited to the Pro tier - it's now available in all versions."
+                "text": "Het tegel-legpatroon was beperkt tot de Pro-versie - nu beschikbaar in alle versies."
             },
             {
                 "kind": "fix",
-                "text": "Fixed a duplication bug in procedural curtains."
+                "text": "Een duplicatiebug in procedurele gordijnen opgelost."
             },
             {
                 "kind": "fix",
-                "text": "Fixed missing meshes and asset redirectors affecting several brand imports."
+                "text": "Ontbrekende meshes en asset-redirectors bij meerdere merken opgelost."
             }
         ]
     }
