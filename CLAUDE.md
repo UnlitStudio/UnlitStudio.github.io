@@ -16,11 +16,26 @@ unlit-studio-github/
 └── Public/
     ├── Data/
     │   ├── Links.txt                   # AES-256 encrypted config URLs (fetched by prelauncher)
+    │   ├── Links-Test.txt              # TEST-environment counterpart of Links.txt
     │   ├── ChunkAndBrand.json          # Chunk-to-brand mapping data
-    │   └── Content.json                # Content metadata
+    │   ├── Content.json                # Content metadata (LIVE brand list)
+    │   ├── Content-Test.json           # TEST brand list — new paks under test go here
+    │   └── ReleaseNotes.json           # Release notes feed (launcher Updates screen)
     └── Images/
         └── Homepage_*.jpg              # Brand/homepage images
 ```
+
+### TEST-environment manifests
+
+`Links-Test.txt` and `Content-Test.json` are the TEST counterparts, selected at runtime by
+`AppEnvironment.ConfigUrl` / `AppEnvironment.ContentJsonUrl` in the launcher when an
+internal (`@unlit.studio`, excluding `pilot@`) user turns the TEST switch on.
+
+To put a new pak in front of internal testers, add its entry to `Content-Test.json` and
+push — it shows up in the Library for TEST users only, and stays out of `Content.json`
+until it's ready to go live. The entry's `downloadlink` field is ignored by the launcher;
+pak and version-file URLs are composed from the environment's DigitalOcean Space
+(`unlitstudiodevelopment` for TEST), so the pak must be uploaded there.
 
 ## How It's Used
 
