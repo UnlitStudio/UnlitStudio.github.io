@@ -1,93 +1,75 @@
 {
   "Content": [
-            {
+    {
       "brand": "10295",
       "chunkid": 10295,
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10295-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/KoopmansMeubelen.png",
       "filters": [
-        "Interieur",
-        "Tafels",
-		"Stoelen",
-		"Kasten"
+        "Meubels"
       ]
     },
-          {
+    {
       "brand": "10294",
       "chunkid": 10294,
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10294-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/KoopmansMeubelen.png",
       "filters": [
-        "Interieur",
-        "Tafels",
-		"Stoelen",
-		"Kasten"
+        "Meubels"
       ]
     },
-	        {
+    {
       "brand": "10293",
       "chunkid": 10293,
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10293-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/KoopmansMeubelen.png",
       "filters": [
-        "Interieur",
-        "Tafels",
-		"Stoelen",
-		"Kasten"
+        "Meubels"
       ]
     },
-        {
+    {
       "brand": "Koopmans Meubelen",
       "chunkid": 10292,
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10292-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/KoopmansMeubelen.png",
       "filters": [
-        "Interieur",
-        "Tafels",
-		"Stoelen",
-		"Kasten"
+        "Meubels"
       ]
     },
-	      {
+    {
       "brand": "Vermeer Meubelen",
       "chunkid": 10291,
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10291-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/VermeerMeubelen.png",
       "filters": [
-        "Interieur",
-        "Kasten",
-		"Tafels"
+        "Meubels"
       ]
     },
-	      {
+    {
       "brand": "Orac",
       "chunkid": 10290,
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10290-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Orac.png",
       "filters": [
-        "Interieur",
-        "Wandpanelen",
-		"Muurlijsten",
-		"Decor"
+        "Wandafwerking"
       ]
     },
-      {
+    {
       "brand": "Blecks",
       "chunkid": 10289,
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10289-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Blecks.png",
       "filters": [
-        "Interieur",
-        "Deuren"
+        "Deuren",
+        "Trappen"
       ]
     },
-	    {
+    {
       "brand": "Floorward",
       "chunkid": 10287,
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10287-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Floorward.png",
       "filters": [
-        "Interieur",
         "Vloeren"
       ]
     },
@@ -97,7 +79,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10286-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/RVDesign.png",
       "filters": [
-        "Interieur",
         "Meubels"
       ]
     },
@@ -107,7 +88,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10285-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Dyyk.png",
       "filters": [
-        "Interieur",
         "Meubels"
       ]
     },
@@ -117,8 +97,8 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10283-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Floer.png",
       "filters": [
-        "PVC",
-        "Vloeren"
+        "Vloeren",
+        "Wandafwerking"
       ]
     },
     {
@@ -127,7 +107,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10282-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/HetAnker.png",
       "filters": [
-        "Interieur",
         "Meubels"
       ]
     },
@@ -137,18 +116,16 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10281-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Anvia.png",
       "filters": [
-        "Interieur",
         "Verlichting"
       ]
     },
-	    {
+    {
       "brand": "Deponti",
       "chunkid": 10280,
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10280-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Deponti.png",
       "filters": [
-        "Exterieur",
-        "Overkappingen"
+        "Buiten"
       ]
     },
     {
@@ -157,7 +134,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10279-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Q-Liv.png",
       "filters": [
-        "Interieur",
         "Meubels"
       ]
     },
@@ -167,8 +143,8 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10278-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/PPC.png",
       "filters": [
-        "Behang",
-        "Interieur"
+        "Vloeren",
+        "Trappen"
       ]
     },
     {
@@ -177,8 +153,8 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10277-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Zolare.png",
       "filters": [
-        "Behang",
-        "Interieur"
+        "Raamdecoratie",
+        "Buiten"
       ]
     },
     {
@@ -187,8 +163,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10267-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/EKLiving.png",
       "filters": [
-        "Behang",
-        "Interieur"
+        "Meubels"
       ]
     },
     {
@@ -197,8 +172,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10266-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/MBI.png",
       "filters": [
-        "Bestrating",
-        "Tuin"
+        "Buiten"
       ]
     },
     {
@@ -207,8 +181,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10265-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Redsun.png",
       "filters": [
-        "Bestrating",
-        "Tuin"
+        "Buiten"
       ]
     },
     {
@@ -217,8 +190,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10264-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Soliddoor.png",
       "filters": [
-        "Deuren",
-        "Interieur"
+        "Deuren"
       ]
     },
     {
@@ -227,8 +199,8 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10263-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/HamuLight.png",
       "filters": [
-        "Tuin",
-        "Verlichting"
+        "Verlichting",
+        "Buiten"
       ]
     },
     {
@@ -237,7 +209,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10221-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Decotrap.png",
       "filters": [
-        "Interieur",
         "Trappen"
       ]
     },
@@ -257,7 +228,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10261-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Textaafoam.png",
       "filters": [
-        "Meubels",
         "Textiel"
       ]
     },
@@ -267,8 +237,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10260-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/ASCreation.png",
       "filters": [
-        "Behang",
-        "Interieur"
+        "Behang"
       ]
     },
     {
@@ -277,7 +246,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10259-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/HjortKnudsen.png",
       "filters": [
-        "Interieur",
         "Meubels"
       ]
     },
@@ -287,7 +255,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10258-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/ZeroLighting.png",
       "filters": [
-        "Design",
         "Verlichting"
       ]
     },
@@ -297,7 +264,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10257-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/JajaVloeren.png",
       "filters": [
-        "PVC",
         "Vloeren"
       ]
     },
@@ -307,8 +273,8 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10256-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Meister.png",
       "filters": [
-        "Laminaat",
-        "Vloeren"
+        "Vloeren",
+        "Wandafwerking"
       ]
     },
     {
@@ -317,7 +283,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10255-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Bodiax.png",
       "filters": [
-        "PVC",
         "Vloeren"
       ]
     },
@@ -327,8 +292,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10254-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Masureel.png",
       "filters": [
-        "Behang",
-        "Interieur"
+        "Behang"
       ]
     },
     {
@@ -347,8 +311,8 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10252-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Borek.png",
       "filters": [
-        "Interieur",
-        "Meubels"
+        "Meubels",
+        "Buiten"
       ]
     },
     {
@@ -357,8 +321,8 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10251-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Eleonora.png",
       "filters": [
-        "Interieur",
-        "Meubels"
+        "Meubels",
+        "Woonaccessoires"
       ]
     },
     {
@@ -367,7 +331,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10250-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/ByBoo.png",
       "filters": [
-        "Interieur",
+        "Meubels",
         "Woonaccessoires"
       ]
     },
@@ -387,7 +351,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10248-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/OlavHome.png",
       "filters": [
-        "Interieur",
         "Meubels"
       ]
     },
@@ -397,7 +360,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10247-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Moduleo.png",
       "filters": [
-        "PVC",
         "Vloeren"
       ]
     },
@@ -407,7 +369,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10246-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Jori.png",
       "filters": [
-        "Design",
         "Meubels"
       ]
     },
@@ -417,8 +378,8 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10245-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Mexform.png",
       "filters": [
-        "Interieur",
-        "Meubels"
+        "Trappen",
+        "Vloeren"
       ]
     },
     {
@@ -427,7 +388,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10244-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Vibia.png",
       "filters": [
-        "Design",
         "Verlichting"
       ]
     },
@@ -437,7 +397,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10243-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/NilsonBeds.png",
       "filters": [
-        "Interieur",
         "Meubels"
       ]
     },
@@ -447,7 +406,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10242-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Harvink.png",
       "filters": [
-        "Design",
         "Meubels"
       ]
     },
@@ -457,7 +415,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10241-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/PassePartout.png",
       "filters": [
-        "Interieur",
         "Meubels"
       ]
     },
@@ -467,7 +424,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10240-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Egger.png",
       "filters": [
-        "Laminaat",
         "Vloeren"
       ]
     },
@@ -477,8 +433,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10239-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Karpi.png",
       "filters": [
-        "Interieur",
-        "Meubels"
+        "Vloerkleden"
       ]
     },
     {
@@ -487,7 +442,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10238-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/HollandsLicht.png",
       "filters": [
-        "Design",
         "Verlichting"
       ]
     },
@@ -497,7 +451,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10237-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Sumisura.png",
       "filters": [
-        "Interieur",
         "Meubels"
       ]
     },
@@ -507,8 +460,8 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10236-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Lightpro.png",
       "filters": [
-        "Tuin",
-        "Verlichting"
+        "Verlichting",
+        "Buiten"
       ]
     },
     {
@@ -517,7 +470,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10235-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Keymer.png",
       "filters": [
-        "Meubels",
         "Textiel"
       ]
     },
@@ -527,8 +479,8 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10234-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Aristide.png",
       "filters": [
-        "Meubels",
-        "Textiel"
+        "Textiel",
+        "Raamdecoratie"
       ]
     },
     {
@@ -537,7 +489,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10233-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/OaXLiving.png",
       "filters": [
-        "Interieur",
         "Meubels"
       ]
     },
@@ -547,8 +498,8 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10232-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Innsout.png",
       "filters": [
-        "Interieur",
-        "Meubels"
+        "Meubels",
+        "Buiten"
       ]
     },
     {
@@ -557,7 +508,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10231-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/PureAndOriginal.png",
       "filters": [
-        "Kleuren",
         "Verf"
       ]
     },
@@ -567,7 +517,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10230-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Sikkens.png",
       "filters": [
-        "Kleuren",
         "Verf"
       ]
     },
@@ -577,8 +526,8 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10229-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Betonlook.png",
       "filters": [
-        "Interieur",
-        "Wandmateriaal"
+        "Wandafwerking",
+        "Vloeren"
       ]
     },
     {
@@ -588,7 +537,7 @@
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Luxaflex.png",
       "filters": [
         "Raamdecoratie",
-        "Textiel"
+        "Buiten"
       ]
     },
     {
@@ -597,8 +546,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10227-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Caselio.png",
       "filters": [
-        "Behang",
-        "Muren"
+        "Behang"
       ]
     },
     {
@@ -608,7 +556,7 @@
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Casamance.png",
       "filters": [
         "Behang",
-        "Muren"
+        "Textiel"
       ]
     },
     {
@@ -618,7 +566,7 @@
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Casadeco.png",
       "filters": [
         "Behang",
-        "Interieur"
+        "Textiel"
       ]
     },
     {
@@ -627,8 +575,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10224-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/SpitsWallcovering.png",
       "filters": [
-        "Behang",
-        "Muren"
+        "Behang"
       ]
     },
     {
@@ -637,8 +584,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10223-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/DutchWallDecor.png",
       "filters": [
-        "Behang",
-        "Muren"
+        "Behang"
       ]
     },
     {
@@ -647,8 +593,8 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10222-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/byMAUT.png",
       "filters": [
-        "Interieur",
-        "Wandmateriaal"
+        "Behang",
+        "Vloerkleden"
       ]
     },
     {
@@ -657,7 +603,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10220-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/SpinderDesign.png",
       "filters": [
-        "Interieur",
         "Woonaccessoires"
       ]
     },
@@ -667,7 +612,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10219-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Upstairs.png",
       "filters": [
-        "Interieur",
         "Trappen"
       ]
     },
@@ -677,8 +621,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10218-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Tacito.png",
       "filters": [
-        "Raamdecoratie",
-        "Textiel"
+        "Wandafwerking"
       ]
     },
     {
@@ -687,7 +630,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10217-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/RolfBenz.png",
       "filters": [
-        "Design",
         "Meubels"
       ]
     },
@@ -697,7 +639,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10216-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Havee.png",
       "filters": [
-        "Interieur",
         "Meubels"
       ]
     },
@@ -717,7 +658,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10214-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Room5.png",
       "filters": [
-        "PVC",
         "Vloeren"
       ]
     },
@@ -727,8 +667,8 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10213-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/RivieraMaison.png",
       "filters": [
-        "Interieur",
-        "Woonaccessoires"
+        "Woonaccessoires",
+        "Meubels"
       ]
     },
     {
@@ -737,7 +677,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10212-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Interfloor.png",
       "filters": [
-        "Tapijt",
         "Vloeren"
       ]
     },
@@ -747,7 +686,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10211-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Hamat.png",
       "filters": [
-        "Textiel",
         "Vloerkleden"
       ]
     },
@@ -757,8 +695,8 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10187-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/vanBesouw.png",
       "filters": [
-        "Tapijt",
-        "Vloeren"
+        "Vloeren",
+        "Vloerkleden"
       ]
     },
     {
@@ -768,7 +706,7 @@
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Arte.png",
       "filters": [
         "Behang",
-        "Interieur"
+        "Wandafwerking"
       ]
     },
     {
@@ -777,8 +715,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10102-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Decolegno.png",
       "filters": [
-        "Wandmateriaal",
-        "Interieur"
+        "Wandafwerking"
       ]
     },
     {
@@ -787,8 +724,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10210-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/VICstairs.png",
       "filters": [
-        "Trappen",
-        "Interieur"
+        "Trappen"
       ]
     },
     {
@@ -797,8 +733,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10209-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Castelijn.png",
       "filters": [
-        "Meubels",
-        "Design"
+        "Meubels"
       ]
     },
     {
@@ -807,8 +742,8 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10208-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Belledo.png",
       "filters": [
-        "Verlichting",
-        "Design"
+        "Wandafwerking",
+        "Trappen"
       ]
     },
     {
@@ -817,8 +752,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10207-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Perletta.png",
       "filters": [
-        "Vloerkleden",
-        "Textiel"
+        "Vloerkleden"
       ]
     },
     {
@@ -827,8 +761,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10206-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Lamett.png",
       "filters": [
-        "Vloeren",
-        "Hout"
+        "Vloeren"
       ]
     },
     {
@@ -837,8 +770,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10205-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Zizeau.png",
       "filters": [
-        "Meubels",
-        "Design"
+        "Meubels"
       ]
     },
     {
@@ -847,8 +779,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10203-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Bece.png",
       "filters": [
-        "Raamdecoratie",
-        "Textiel"
+        "Raamdecoratie"
       ]
     },
     {
@@ -857,8 +788,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10202-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Akupanel.png",
       "filters": [
-        "Akoestische panelen",
-        "Interieur"
+        "Wandafwerking"
       ]
     },
     {
@@ -867,8 +797,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10201-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Hofstede-Raanhuis.png",
       "filters": [
-        "Meubels",
-        "Design"
+        "Meubels"
       ]
     },
     {
@@ -877,8 +806,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10199-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Forme.png",
       "filters": [
-        "Deuren",
-        "Interieur"
+        "Meubels"
       ]
     },
     {
@@ -887,8 +815,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10200-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Noordwand.png",
       "filters": [
-        "Behang",
-        "Muren"
+        "Behang"
       ]
     },
     {
@@ -897,8 +824,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10198-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/126.png",
       "filters": [
-        "Meubels",
-        "Design"
+        "Meubels"
       ]
     },
     {
@@ -907,8 +833,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10197-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/127.png",
       "filters": [
-        "Vloeren",
-        "Hout"
+        "Vloeren"
       ]
     },
     {
@@ -917,8 +842,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10196-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/108.png",
       "filters": [
-        "Behang",
-        "Muren"
+        "Behang"
       ]
     },
     {
@@ -927,8 +851,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10195-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/128.png",
       "filters": [
-        "Meubels",
-        "Design"
+        "Meubels"
       ]
     },
     {
@@ -937,8 +860,8 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10194-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/129.png",
       "filters": [
-        "Meubels",
-        "Design"
+        "Vloeren",
+        "Wandafwerking"
       ]
     },
     {
@@ -947,8 +870,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10192-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/111.png",
       "filters": [
-        "Raamdecoratie",
-        "Textiel"
+        "Raamdecoratie"
       ]
     },
     {
@@ -957,8 +879,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10190-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/124.png",
       "filters": [
-        "Vloerkleden",
-        "Textiel"
+        "Vloerkleden"
       ]
     },
     {
@@ -967,8 +888,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10191-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/125.png",
       "filters": [
-        "Meubels",
-        "Design"
+        "Meubels"
       ]
     },
     {
@@ -977,8 +897,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10186-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/118.png",
       "filters": [
-        "Vloeren",
-        "PVC"
+        "Vloeren"
       ]
     },
     {
@@ -987,8 +906,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10188-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/119.png",
       "filters": [
-        "Verf",
-        "Kleuren"
+        "Verf"
       ]
     },
     {
@@ -997,8 +915,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10189-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/121.png",
       "filters": [
-        "Opslag",
-        "Wastorens"
+        "Meubels"
       ]
     },
     {
@@ -1008,7 +925,8 @@
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/112.png",
       "filters": [
         "Woonaccessoires",
-        "Interieur"
+        "Meubels",
+        "Verlichting"
       ]
     },
     {
@@ -1017,8 +935,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10185-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/114.png",
       "filters": [
-        "Meubels",
-        "Design"
+        "Meubels"
       ]
     },
     {
@@ -1028,7 +945,7 @@
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/116.png",
       "filters": [
         "Verlichting",
-        "Tuin"
+        "Buiten"
       ]
     },
     {
@@ -1037,8 +954,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10183-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/113.png",
       "filters": [
-        "Meubels",
-        "Design"
+        "Meubels"
       ]
     },
     {
@@ -1048,7 +964,7 @@
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/117.png",
       "filters": [
         "Meubels",
-        "Interieur"
+        "Woonaccessoires"
       ]
     },
     {
@@ -1057,8 +973,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10180-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/115.png",
       "filters": [
-        "Sauna",
-        "Wellness"
+        "Meubels"
       ]
     },
     {
@@ -1067,8 +982,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10179-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/109.png",
       "filters": [
-        "Meubels",
-        "Design"
+        "Vloeren"
       ]
     },
     {
@@ -1077,8 +991,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10159-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/97.png",
       "filters": [
-        "Bestrating",
-        "Tuin"
+        "Buiten"
       ]
     },
     {
@@ -1087,8 +1000,8 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10178-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/106.png",
       "filters": [
-        "Schuifdeuren",
-        "Interieur"
+        "Vloeren",
+        "Trappen"
       ]
     },
     {
@@ -1097,8 +1010,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10177-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/110.png",
       "filters": [
-        "Verf",
-        "Kleuren"
+        "Verf"
       ]
     },
     {
@@ -1107,8 +1019,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10176-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/107.png",
       "filters": [
-        "Verf",
-        "Kleuren"
+        "Verf"
       ]
     },
     {
@@ -1117,8 +1028,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10137-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/47.png",
       "filters": [
-        "Meubels",
-        "Design"
+        "Meubels"
       ]
     },
     {
@@ -1128,7 +1038,7 @@
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/22.png",
       "filters": [
         "Meubels",
-        "Design"
+        "Verlichting"
       ]
     },
     {
@@ -1138,7 +1048,7 @@
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/122.png",
       "filters": [
         "Vloeren",
-        "Hout"
+        "Wandafwerking"
       ]
     },
     {
@@ -1148,7 +1058,7 @@
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/105.png",
       "filters": [
         "Verf",
-        "Kleuren"
+        "Behang"
       ]
     },
     {
@@ -1157,7 +1067,6 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10174-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/104.png",
       "filters": [
-        "Tuinhuizen",
         "Buiten"
       ]
     },
@@ -1168,7 +1077,7 @@
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/90.png",
       "filters": [
         "Vloeren",
-        "Tapijt"
+        "Vloerkleden"
       ]
     },
     {
@@ -1177,8 +1086,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10171-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/99.png",
       "filters": [
-        "Meubels",
-        "Design"
+        "Meubels"
       ]
     },
     {
@@ -1187,8 +1095,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10170-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/100.png",
       "filters": [
-        "Verlichting",
-        "Design"
+        "Vloeren"
       ]
     },
     {
@@ -1197,8 +1104,8 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10168-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/98.png",
       "filters": [
-        "Tegels",
-        "Vloeren"
+        "Vloeren",
+        "Wandafwerking"
       ]
     },
     {
@@ -1208,7 +1115,7 @@
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/25.png",
       "filters": [
         "Vloeren",
-        "Tapijt"
+        "Vloerkleden"
       ]
     },
     {
@@ -1218,7 +1125,8 @@
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/64.png",
       "filters": [
         "Meubels",
-        "Interieur"
+        "Woonaccessoires",
+        "Verlichting"
       ]
     },
     {
@@ -1227,8 +1135,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10146-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/96.png",
       "filters": [
-        "Vloeren",
-        "PVC"
+        "Vloeren"
       ]
     },
     {
@@ -1237,8 +1144,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10165-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/94.png",
       "filters": [
-        "Meubels",
-        "Design"
+        "Meubels"
       ]
     },
     {
@@ -1247,8 +1153,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10164-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/93.png",
       "filters": [
-        "Meubels",
-        "Design"
+        "Meubels"
       ]
     },
     {
@@ -1257,8 +1162,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10163-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/92.png",
       "filters": [
-        "Meubels",
-        "Design"
+        "Meubels"
       ]
     },
     {
@@ -1267,8 +1171,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10167-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/95.png",
       "filters": [
-        "Meubels",
-        "Interieur"
+        "Meubels"
       ]
     },
     {
@@ -1278,7 +1181,8 @@
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/88.png",
       "filters": [
         "Meubels",
-        "Interieur"
+        "Vloeren",
+        "Behang"
       ]
     },
     {
@@ -1288,7 +1192,7 @@
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/87.png",
       "filters": [
         "Meubels",
-        "Interieur"
+        "Woonaccessoires"
       ]
     },
     {
@@ -1298,7 +1202,7 @@
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/86.png",
       "filters": [
         "Meubels",
-        "Interieur"
+        "Woonaccessoires"
       ]
     },
     {
@@ -1307,8 +1211,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10158-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/85.png",
       "filters": [
-        "Meubels",
-        "Design"
+        "Meubels"
       ]
     },
     {
@@ -1317,8 +1220,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10157-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/84.png",
       "filters": [
-        "Vloeren",
-        "PVC"
+        "Vloeren"
       ]
     },
     {
@@ -1327,8 +1229,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10155-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/40.png",
       "filters": [
-        "Meubels",
-        "Design"
+        "Meubels"
       ]
     },
     {
@@ -1338,7 +1239,7 @@
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/42.png",
       "filters": [
         "Behang",
-        "Muren"
+        "Raamdecoratie"
       ]
     },
     {
@@ -1347,8 +1248,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10101-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/54.png",
       "filters": [
-        "Behang",
-        "Muren"
+        "Behang"
       ]
     },
     {
@@ -1357,8 +1257,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10111-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/55.png",
       "filters": [
-        "Verf",
-        "Kleuren"
+        "Verf"
       ]
     },
     {
@@ -1368,7 +1267,7 @@
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/53.png",
       "filters": [
         "Textiel",
-        "Meubels"
+        "Raamdecoratie"
       ]
     },
     {
@@ -1377,8 +1276,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10113-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/43.png",
       "filters": [
-        "Wanddecoratie",
-        "Kunst"
+        "Woonaccessoires"
       ]
     },
     {
@@ -1387,8 +1285,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10114-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/37.png",
       "filters": [
-        "Vloeren",
-        "PVC"
+        "Vloeren"
       ]
     },
     {
@@ -1397,8 +1294,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10117-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/58.png",
       "filters": [
-        "Meubels",
-        "Design"
+        "Meubels"
       ]
     },
     {
@@ -1407,8 +1303,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10119-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/65.png",
       "filters": [
-        "Haarden",
-        "Buiten"
+        "Haarden"
       ]
     },
     {
@@ -1417,8 +1312,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10134-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/23.png",
       "filters": [
-        "Meubels",
-        "Design"
+        "Meubels"
       ]
     },
     {
@@ -1428,7 +1322,8 @@
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/44.png",
       "filters": [
         "Meubels",
-        "Design"
+        "Verlichting",
+        "Woonaccessoires"
       ]
     },
     {
@@ -1438,7 +1333,8 @@
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/45.png",
       "filters": [
         "Meubels",
-        "Interieur"
+        "Woonaccessoires",
+        "Verlichting"
       ]
     },
     {
@@ -1447,8 +1343,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10138-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/59.png",
       "filters": [
-        "Meubels",
-        "Design"
+        "Meubels"
       ]
     },
     {
@@ -1458,7 +1353,8 @@
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/60.png",
       "filters": [
         "Meubels",
-        "Design"
+        "Verlichting",
+        "Woonaccessoires"
       ]
     },
     {
@@ -1467,8 +1363,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10141-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/51.png",
       "filters": [
-        "Meubels",
-        "Design"
+        "Meubels"
       ]
     },
     {
@@ -1478,7 +1373,8 @@
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/50.png",
       "filters": [
         "Meubels",
-        "Design"
+        "Verlichting",
+        "Woonaccessoires"
       ]
     },
     {
@@ -1487,8 +1383,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10166-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/24.png",
       "filters": [
-        "Vloeren",
-        "PVC"
+        "Vloeren"
       ]
     },
     {
@@ -1498,7 +1393,8 @@
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/48.png",
       "filters": [
         "Meubels",
-        "Interieur"
+        "Verlichting",
+        "Woonaccessoires"
       ]
     },
     {
@@ -1507,8 +1403,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10144-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/20.png",
       "filters": [
-        "Meubels",
-        "Design"
+        "Meubels"
       ]
     },
     {
@@ -1517,8 +1412,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10145-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/39.png",
       "filters": [
-        "Interieur",
-        "Lattenwanden"
+        "Wandafwerking"
       ]
     },
     {
@@ -1527,8 +1421,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10148-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/66.png",
       "filters": [
-        "Haarden",
-        "Interieur"
+        "Haarden"
       ]
     },
     {
@@ -1537,8 +1430,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10149-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/21.png",
       "filters": [
-        "Haarden",
-        "Interieur"
+        "Haarden"
       ]
     },
     {
@@ -1547,8 +1439,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10150-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/26.png",
       "filters": [
-        "Meubels",
-        "Interieur"
+        "Meubels"
       ]
     },
     {
@@ -1567,8 +1458,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10151-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/38.png",
       "filters": [
-        "Vloeren",
-        "Laminaat"
+        "Vloeren"
       ]
     },
     {
@@ -1577,8 +1467,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10153-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/83.png",
       "filters": [
-        "Verlichting",
-        "Interieur"
+        "Verlichting"
       ]
     },
     {
@@ -1587,8 +1476,7 @@
       "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10154-Windows.pak",
       "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/Pastoe.png",
       "filters": [
-        "Meubels",
-        "Design"
+        "Meubels"
       ]
     }
   ]
