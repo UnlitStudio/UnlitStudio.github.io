@@ -1,5 +1,14 @@
 {
   "Content": [
+      {
+      "brand": "10296",
+      "chunkid": 10296,
+      "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10296-Windows.pak",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/KoopmansMeubelen.png",
+      "filters": [
+        "Meubels"
+      ]
+    },
     {
       "brand": "10295",
       "chunkid": 10295,
