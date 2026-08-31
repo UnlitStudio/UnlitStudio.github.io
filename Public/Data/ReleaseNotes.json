@@ -1,7 +1,225 @@
 [
     {
         "product": "studio",
+        "version": "2026.2.0",
+        "date": "31 augustus 2026",
+        "channel": "stable",
+        "commit": "fd06044e429810c0918b592de90c7a7b2b429953",
+        "items": [
+            {
+                "kind": "new",
+                "text": "Schuine daken: ontwerp zadeldaken, lessenaarsdaken en samengestelde dakvormen met een instelbare helling per wand. Gevels volgen automatisch het dakvlak, de overstek wordt meegenomen en binnen- en buitenzijde krijgen elk hun eigen materiaal. Deuren en ramen snijden door tot in het dak."
+            },
+            {
+                "kind": "new",
+                "text": "Dakkapellen in meerdere varianten: ze klikken automatisch vast op het dakvlak en lopen aan de achterzijde netjes door tot de binnenzijde."
+            },
+            {
+                "kind": "new",
+                "text": "Procedurele trappen: bouw trappen met een instelbaar aantal hoeken, optreden en materiaalrotatie, inclusief thumbnails in de bibliotheek."
+            },
+            {
+                "kind": "new",
+                "text": "Plinten- en kroonlijstensysteem: plaats plinten en kroonlijsten langs de wanden van een ruimte."
+            },
+            {
+                "kind": "new",
+                "text": "Materiaal-aanpassingen per object: geef een los object zijn eigen materiaal zonder de rest van de scène te beïnvloeden."
+            },
+            {
+                "kind": "new",
+                "text": "In-app tips: korte pop-upballonnen wijzen je onderweg op functies die je nog niet gebruikt."
+            },
+            {
+                "kind": "new",
+                "text": "Gebogen gordijnrails, zodat gordijnen ook langs ronde wanden en erkers vallen."
+            },
+            {
+                "kind": "new",
+                "text": "Projecten openen vanuit Windows: dubbelklik een .sav-projectbestand en Unlit Studio opent het project direct."
+            },
+            {
+                "kind": "new",
+                "text": "Maatvoering afronden met boundingbox-snapping, plus een instelbare maat voor geïmporteerde 3D-objecten."
+            },
+            {
+                "kind": "new",
+                "text": "Behangmaterialen kunnen nu horizontaal gespiegeld worden."
+            },
+            {
+                "kind": "new",
+                "text": "Nieuwe merken en collecties: Label van den Berg, Little Greene, Tuinvisie, Wallcatcher, Comafin (voorheen Aanhuis), Brink & Campman, CS Rugs, Heditex, Eyye, Design on Stock, Tarkett PVC en Lightpro, plus updates voor Arte, Noordwand, Orac, Toppoint, Koopmans en Zolare. Ook nieuwe dak- en wegmaterialen toegevoegd."
+            },
+            {
+                "kind": "imp",
+                "text": "De asset-bibliotheek staat nu alfabetisch gesorteerd (A tot Z)."
+            },
+            {
+                "kind": "imp",
+                "text": "De materiaalcategorie Gordijnstof heet nu Raambekleding, wat beter past bij de inhoud."
+            },
+            {
+                "kind": "imp",
+                "text": "Camerarails worden nu als lijn in de scène weergegeven, zodat je het pad van de camera ziet terwijl je hem instelt."
+            },
+            {
+                "kind": "imp",
+                "text": "Het genereren van een 3D-model uit een afbeelding loopt nu volledig via de server, waardoor het betrouwbaarder is en modellen niet meer overschreven worden."
+            },
+            {
+                "kind": "imp",
+                "text": "De renderer blijft doorwerken na een fout in plaats van te stoppen, met duidelijkere meldingen. Ook de thumbnail-renderer werkt weer correct onder Unreal Engine 5.8."
+            },
+            {
+                "kind": "imp",
+                "text": "De camera-afstand wordt beter berekend, zodat objecten volledig in beeld staan op previews en thumbnails."
+            },
+            {
+                "kind": "imp",
+                "text": "Verlichting verbeterd: emissieve materialen gaan nu correct uit als de lamp uit staat. Daarnaast algemene optimalisaties en een verbeterde pathtracer."
+            },
+            {
+                "kind": "fix",
+                "text": "Objecten die je met Ctrl+Z had verwijderd, konden daarna nog steeds geselecteerd worden."
+            },
+            {
+                "kind": "fix",
+                "text": "Geïmporteerde objecten worden nu correct gegroepeerd en niet meer automatisch geselecteerd bij het openen van een project."
+            },
+            {
+                "kind": "fix",
+                "text": "Modulaire Keuken: een fout in het front bij ingebouwde apparatuur verholpen, en het materiaalsysteem ondersteunt nu ook eigen materialen."
+            },
+            {
+                "kind": "fix",
+                "text": "Raambekleding kreeg een verkeerde maat bij schuifdeuren."
+            },
+            {
+                "kind": "fix",
+                "text": "Plinten en kroonlijsten verloren detail, en een schaalfout in dakmaterialen is opgelost."
+            },
+            {
+                "kind": "fix",
+                "text": "Crashes verholpen bij procedurele deuren en verlichting, plus materiaalfouten bij meubels met poten tijdens opslaan en laden."
+            },
+            {
+                "kind": "fix",
+                "text": "Trappen: visuele glitches en een verkeerd materiaal in de definitieve versie opgelost."
+            },
+            {
+                "kind": "fix",
+                "text": "Vloerkleden: diverse materiaal- en weergavefouten opgelost."
+            }
+        ]
+    },
+    {
+        "product": "studio",
         "version": "2026.1.0",
+        "date": "2 juli 2026",
+        "channel": "stable",
+        "commit": "c02d85a430fccab21243f9a5585bb12596d6260b",
+        "items": [
+            {
+                "kind": "new",
+                "text": "AI Render: genereer een fotorealistische visualisatie van je scene met AI, met je creditsaldo en de renderkosten direct zichtbaar in de instellingen."
+            },
+            {
+                "kind": "new",
+                "text": "3D-model uit een afbeelding: maak op basis van een foto automatisch een 3D-model en download het rechtstreeks in je project."
+            },
+            {
+                "kind": "new",
+                "text": "Procedurele deuren volledig vernieuwd: draai-, schuif- en pivotdeuren met alle interieurvarianten, instelbare scharnieren, draairichting en nieuwe thumbnails."
+            },
+            {
+                "kind": "new",
+                "text": "Procedureel vloerkleden-systeem: vloerkleden met correcte projectie-gebaseerde mapping en volledige ondersteuning in het hoofdmateriaal."
+            },
+            {
+                "kind": "new",
+                "text": "Kavel-import via PDOK: zoek op Nederlands adres en haal automatisch de kadastrale perceelgrens en luchtfoto op als basis voor je ontwerp."
+            },
+            {
+                "kind": "new",
+                "text": "Moasure-integratie: meet een ruimte op met Moasure en zet de meting direct om in wanden en constructielijnen."
+            },
+            {
+                "kind": "new",
+                "text": "Eigen 3D-modellen importeren: DAE- en GLB-import inclusief materialen, met correcte transformatiehierarchie en automatische selectie na import."
+            },
+            {
+                "kind": "new",
+                "text": "Railspot-systeem: plaats spotlights langs een rail-spline, inclusief instelbare armen, reflectoren en rotatievoet."
+            },
+            {
+                "kind": "new",
+                "text": "TuinDeco schuttingsysteem met bijbehorende materialen."
+            },
+            {
+                "kind": "new",
+                "text": "SketchUp-navigatiemodus, zodat je met een vertrouwde besturing door de scene beweegt."
+            },
+            {
+                "kind": "new",
+                "text": "LogicTrade-koppeling nu ook binnen Unlit Studio zelf beschikbaar."
+            },
+            {
+                "kind": "new",
+                "text": "Nieuwe werkstroom-functies: zoeken in de bibliotheek, favorieten, box-selectie, klikbare muurmaatvoeringen met handmatige invoer en het tekenen van splines."
+            },
+            {
+                "kind": "new",
+                "text": "Nieuwe merken en collecties: Riviera Maison, Koopmans Meubelen, Vermeer Meubelen, Passe Partout, Deponti, Orac, Casadeco, Casamance, Caselio, Blecks, Floorward, Castelijn, Hamulight, DQG, Hofstede, Studio Henk, QLiv, Harvink en Therdex, plus uitbreidingen op Toppoint, Texdecor, Trendhopper, Anvia en Eijffinger."
+            },
+            {
+                "kind": "imp",
+                "text": "Overgestapt op Unreal Engine 5.8 voor betere beeldkwaliteit en stabiliteit."
+            },
+            {
+                "kind": "imp",
+                "text": "Mesh- en materiaalrenderer flink verbeterd, met vernieuwde thumbnails en consistentere naamgeving door de hele bibliotheek."
+            },
+            {
+                "kind": "imp",
+                "text": "Ctrl+Z werkt nu ook voor verwijderde objecten, een kleurenwiel toegevoegd aan de kleurkiezer en 45-graden rotatie geeft magnetische tikjes met een graden-uitlezing."
+            },
+            {
+                "kind": "imp",
+                "text": "Camera-instellingen opnieuw ingedeeld en objecten kunnen tijdelijk verborgen worden voor een vrij zicht op de scene."
+            },
+            {
+                "kind": "imp",
+                "text": "Prestaties verbeterd bij vloerkleden en optimalisatie weer actief voor schuif- en pivotdeuren."
+            },
+            {
+                "kind": "imp",
+                "text": "AI Render start nu standaard op 2K in plaats van 4K, waardoor renders sneller klaar zijn en minder credits kosten."
+            },
+            {
+                "kind": "fix",
+                "text": "Modulaire Keuken: schuifregelaars werkten niet altijd door op de keuken, deurgrepen stonden verkeerd en een materiaalmismatch is verholpen."
+            },
+            {
+                "kind": "fix",
+                "text": "De camerastanden Normaal en Pathtracer waren omgewisseld."
+            },
+            {
+                "kind": "fix",
+                "text": "Ontbrekende materialen, thumbnails en verwijzingen opgelost bij onder andere Anvia, Deponti, Texdecor, Koopmans, Toppoint en Passe Partout."
+            },
+            {
+                "kind": "fix",
+                "text": "Materialen die tijdens gebruik worden aangemaakt krijgen nu een unieke naam, wat problemen bij het opslaan van een project voorkomt."
+            },
+            {
+                "kind": "fix",
+                "text": "Een ontbrekend deurmodel, gaten in meshes, gizmo- en lichtfouten en een fout in de StyleMatch-koppeling opgelost."
+            }
+        ]
+    },
+    {
+        "product": "studio",
+        "version": "2026.0.0",
         "date": "30 maart 2026",
         "channel": "stable",
         "commit": "fb0c5e6cdefa177c4f8a4af9c8b59ba5cd899660",
