@@ -1,5 +1,14 @@
 {
   "Content": [
+          {
+      "brand": "10298",
+      "chunkid": 10298,
+      "downloadlink": "https://unlitstudio.ams3.digitaloceanspaces.com/content/paks/pakchunk10298-Windows.pak",
+      "Image": "https://raw.githubusercontent.com/UnlitStudio/UnlitStudio.github.io/master/Public/Images/Thumbnails/BrinkCampman.png",
+      "filters": [
+        "Meubels"
+      ]
+    },
         {
       "brand": "10297",
       "chunkid": 10297,
